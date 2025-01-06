@@ -1,6 +1,6 @@
 # 🌟 Proxy Channel Performance Dashboard 🌟
 
-_Last Updated: 2025-01-06T20:02:07.893257_
+_Last Updated: 2025-01-06T20:10:20.322015_
 
 ---
 
@@ -19,7 +19,7 @@ _Last Updated: 2025-01-06T20:02:07.893257_
 | **Active Channels**   | 4 / 4       |
 | **Total Valid Configs** | 64          |
 | **Average Success Rate** | 100.0%      |
-| **Average Response Time** | 0.48s       |
+| **Average Response Time** | 0.42s       |
 
 ---
 
@@ -27,17 +27,17 @@ _Last Updated: 2025-01-06T20:02:07.893257_
 
 | Channel          | Status     | Score  | Success Rate | Response Time | Valid/Total | Last Success               |
 |------------------|------------|--------|--------------|---------------|-------------|----------------------------|
-| **freewireguard**  | ✅ Active  | 96.4%  | 100.0% | 0.43s         | 15/17       | 2025-01-06T20:02:07.891383 |
-| **v2ray_free_conf**  | ✅ Active  | 88.1%  | 100.0% | 0.40s         | 17/31       | 2025-01-06T20:02:06.997048 |
-| **PrivateVPNs**  | ✅ Active  | 86.9%  | 100.0% | 0.39s         | 9/18       | 2025-01-06T20:02:07.431350 |
-| **prrofile_purple**  | ✅ Active  | 76.5%  | 100.0% | 0.70s         | 23/123       | 2025-01-06T20:02:06.537285 |
+| **freewireguard**  | ✅ Active  | 96.5%  | 100.0% | 0.39s         | 15/17       | 2025-01-06T20:10:20.320634 |
+| **v2ray_free_conf**  | ✅ Active  | 88.2%  | 100.0% | 0.35s         | 17/31       | 2025-01-06T20:10:19.498231 |
+| **PrivateVPNs**  | ✅ Active  | 86.9%  | 100.0% | 0.37s         | 9/18       | 2025-01-06T20:10:19.907528 |
+| **prrofile_purple**  | ✅ Active  | 76.6%  | 100.0% | 0.58s         | 23/123       | 2025-01-06T20:10:19.088297 |
 
 ---
 
 ### Quick Overview
 <div align="center">
-  <a href="assets/channel_stats_chart.svg">
-    <img src="assets/channel_stats_chart.svg" alt="Source Performance Statistics" width="800">
+  <a href="https://raw.githubusercontent.com/nullluser/NullRepo/refs/heads/main/assets/channel_stats_chart.svg">
+    <img src="https://raw.githubusercontent.com/nullluser/NullRepo/refs/heads/main/assets/channel_stats_chart.svg" alt="Source Performance Statistics" width="800">
   </a>
 </div>
 
