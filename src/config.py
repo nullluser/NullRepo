@@ -47,10 +47,11 @@ class ProxyConfig:
     def __init__(self):
         # List of channels or URLs to fetch proxy configurations from
         self.SOURCE_URLS = [
+            ChannelConfig("https://t.me/s/prrofile_purple"),
             ChannelConfig("https://t.me/s/v2ray_free_conf"),
             ChannelConfig("https://t.me/s/PrivateVPNs"),
             ChannelConfig("https://t.me/s/freewireguard"),
-            ChannelConfig("https://raw.githubusercontent.com/valid7996/Gozargah/refs/heads/main/Gozargah_Sub")
+            ChannelConfig("https://t.me/s/ConfigsHUB")
         ]
 
         # Minimum and maximum number of configurations per protocol
