@@ -185,8 +185,8 @@ _Last Updated: {stats_data['timestamp']}_
 
 ### Quick Overview
 <div align="center">
-  <a href="assets/channel_stats_chart.svg">
-    <img src="assets/channel_stats_chart.svg" alt="Source Performance Statistics" width="800">
+  <a href="https://raw.githubusercontent.com/nullluser/NullRepo/refs/heads/main/assets/channel_stats_chart.svg">
+    <img src="https://raw.githubusercontent.com/nullluser/NullRepo/refs/heads/main/assets/channel_stats_chart.svg" alt="Source Performance Statistics" width="800">
   </a>
 </div>
 
