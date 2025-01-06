@@ -50,8 +50,7 @@ class ProxyConfig:
             ChannelConfig("https://t.me/s/prrofile_purple"),
             ChannelConfig("https://t.me/s/v2ray_free_conf"),
             ChannelConfig("https://t.me/s/PrivateVPNs"),
-            ChannelConfig("https://t.me/s/freewireguard"),
-            ChannelConfig("https://t.me/s/ConfigsHUB")
+            ChannelConfig("https://t.me/s/freewireguard")
         ]
 
         # Minimum and maximum number of configurations per protocol
