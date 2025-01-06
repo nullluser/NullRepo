@@ -119,45 +119,18 @@ def generate_html_report(stats_data):
                                 <th class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Last Success</th>
                             </tr>
                         </thead>
-                        <tbody class="bg-white divide-y divide-gray-200">'''
-
-    for channel in sorted(stats_data['channels'], key=lambda x: x['metrics']['overall_score'], reverse=True):
-        success_rate = (channel['metrics']['success_count'] / 
-                       max(1, channel['metrics']['success_count'] + channel['metrics']['fail_count'])) * 100
-        
-        status_color = 'green' if channel['enabled'] else 'red'
-        score_color = 'green' if channel['metrics']['overall_score'] >= 70 else 'yellow' if channel['metrics']['overall_score'] >= 50 else 'red'
-        
-        html += f'''
+                        <tbody class="bg-white divide-y divide-gray-200">
+                            {''.join([f'''
                             <tr>
-                                <td class="px-6 py-4 whitespace-nowrap text-sm font-medium text-gray-900">
-                                    {channel['url'].split('/')[-1]}
-                                </td>
-                                <td class="px-6 py-4 whitespace-nowrap">
-                                    <span class="px-2 inline-flex text-xs leading-5 font-semibold rounded-full bg-{status_color}-100 text-{status_color}-800">
-                                        {'Active' if channel['enabled'] else 'Inactive'}
-                                    </span>
-                                </td>
-                                <td class="px-6 py-4 whitespace-nowrap">
-                                    <span class="px-2 inline-flex text-xs leading-5 font-semibold rounded-full bg-{score_color}-100 text-{score_color}-800">
-                                        {channel['metrics']['overall_score']:.1f}%
-                                    </span>
-                                </td>
-                                <td class="px-6 py-4 whitespace-nowrap text-sm text-gray-500">
-                                    {success_rate:.1f}%
-                                </td>
-                                <td class="px-6 py-4 whitespace-nowrap text-sm text-gray-500">
-                                    {channel['metrics']['avg_response_time']:.2f}s
-                                </td>
-                                <td class="px-6 py-4 whitespace-nowrap text-sm text-gray-500">
-                                    {channel['metrics']['valid_configs']}/{channel['metrics']['total_configs']}
-                                </td>
-                                <td class="px-6 py-4 whitespace-nowrap text-sm text-gray-500">
-                                    {channel['metrics']['last_success']}
-                                </td>
-                            </tr>'''
-
-    html += '''
+                                <td class="px-6 py-4 whitespace-nowrap text-sm font-medium text-gray-900">{channel['url'].split('/')[-1]}</td>
+                                <td class="px-6 py-4 whitespace-nowrap text-sm text-gray-500">{'✅ Active' if channel['enabled'] else '❌ Inactive'}</td>
+                                <td class="px-6 py-4 whitespace-nowrap text-sm text-gray-500">{channel['metrics']['overall_score']:.1f}%</td>
+                                <td class="px-6 py-4 whitespace-nowrap text-sm text-gray-500">{(channel['metrics']['success_count'] / max(1, channel['metrics']['success_count'] + channel['metrics']['fail_count'])) * 100:.1f}%</td>
+                                <td class="px-6 py-4 whitespace-nowrap text-sm text-gray-500">{channel['metrics']['avg_response_time']:.2f}s</td>
+                                <td class="px-6 py-4 whitespace-nowrap text-sm text-gray-500">{channel['metrics']['valid_configs']}/{channel['metrics']['total_configs']}</td>
+                                <td class="px-6 py-4 whitespace-nowrap text-sm text-gray-500">{channel['metrics']['last_success']}</td>
+                            </tr>
+                            ''' for channel in stats_data['channels']])}
                         </tbody>
                     </table>
                 </div>
@@ -165,8 +138,54 @@ def generate_html_report(stats_data):
         </div>
     </body>
     </html>'''
-    
     return html
+
+def generate_markdown_report(stats_data):
+    markdown = f'''# 🌟 Proxy Channel Performance Dashboard 🌟
+
+_Last Updated: {stats_data['timestamp']}_
+
+---
+
+## 👩‍💻 Developer Information
+
+- **[GitHub Profile](https://github.com/4n0nymou3)**  
+- **[Project Repository](https://github.com/4n0nymou3/multi-proxy-config-fetcher)**  
+- **[X (Twitter)](https://x.com/4n0nymou3)**  
+
+---
+
+## 📊 Performance Overview
+
+| Metric                | Value       |
+|-----------------------|-------------|
+| **Active Channels**   | {sum(1 for c in stats_data['channels'] if c['enabled'])} / {len(stats_data['channels'])}       |
+| **Total Valid Configs** | {sum(c['metrics']['valid_configs'] for c in stats_data['channels'])}          |
+| **Average Success Rate** | {sum((c['metrics']['success_count']/(max(1, c['metrics']['success_count'] + c['metrics']['fail_count'])))*100 for c in stats_data['channels'])/len(stats_data['channels']):.1f}%      |
+| **Average Response Time** | {sum(c['metrics']['avg_response_time'] for c in stats_data['channels'])/len(stats_data['channels']):.2f}s       |
+
+---
+
+## 📋 Detailed Channel Statistics
+
+| Channel          | Status     | Score  | Success Rate | Response Time | Valid/Total | Last Success               |
+|------------------|------------|--------|--------------|---------------|-------------|----------------------------|'''
+
+    for channel in sorted(stats_data['channels'], key=lambda x: x['metrics']['overall_score'], reverse=True):
+        success_rate = (channel['metrics']['success_count'] / 
+                       max(1, channel['metrics']['success_count'] + channel['metrics']['fail_count'])) * 100
+        
+        status = '✅ Active' if channel['enabled'] else '❌ Inactive'
+        markdown += f'''
+| **{channel['url'].split('/')[-1]}**  | {status}  | {channel['metrics']['overall_score']:.1f}%  | {success_rate:.1f}% | {channel['metrics']['avg_response_time']:.2f}s         | {channel['metrics']['valid_configs']}/{channel['metrics']['total_configs']}       | {channel['metrics']['last_success']} |'''
+
+    markdown += '''
+
+---
+
+🎉 **All channels are currently active and performing optimally!** 🎉
+'''
+    return markdown
 
 def main():
     try:
@@ -183,7 +202,11 @@ def main():
         with open('assets/performance_report.html', 'w', encoding='utf-8') as f:
             f.write(html_content)
         
-        print("Successfully generated chart and report!")
+        markdown_content = generate_markdown_report(stats_data)
+        with open('assets/performance_report.md', 'w', encoding='utf-8') as f:
+            f.write(markdown_content)
+        
+        print("Successfully generated chart, report, and markdown!")
         
     except Exception as e:
         print(f"Error generating outputs: {str(e)}")
