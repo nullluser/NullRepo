@@ -52,10 +52,9 @@ jobs:
     
     - name: Commit and push changes
       run: |
-        git add configs/proxy_configs.txt
         git add configs/channel_stats.json
         git add assets/channel_stats_chart.svg
         git add assets/performance_report.html
-        git add README.md
+        git add assets/performance_report.md
         git commit -m "Update proxy configs, stats and reports" || echo "No changes to commit"
         git push
