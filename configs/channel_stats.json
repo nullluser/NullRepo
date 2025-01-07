@@ -1,18 +1,18 @@
 {
-  "timestamp": "2025-01-07T10:40:01.347279",
+  "timestamp": "2025-01-07T11:24:37.908709",
   "channels": [
     {
       "url": "https://t.me/s/prrofile_purple",
       "enabled": true,
       "metrics": {
-        "total_configs": 123,
-        "valid_configs": 23,
+        "total_configs": 125,
+        "valid_configs": 22,
         "unique_configs": 21,
-        "avg_response_time": 0.82,
+        "avg_response_time": 0.92,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 76.28,
-        "last_success": "2025-01-07T10:40:00.016794"
+        "overall_score": 76.88,
+        "last_success": "2025-01-07T11:24:36.489329"
       }
     },
     {
@@ -20,13 +20,13 @@
       "enabled": true,
       "metrics": {
         "total_configs": 20,
-        "valid_configs": 8,
-        "unique_configs": 8,
-        "avg_response_time": 0.36,
+        "valid_configs": 10,
+        "unique_configs": 10,
+        "avg_response_time": 0.43,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 84.46,
-        "last_success": "2025-01-07T10:40:00.445018"
+        "overall_score": 86.86,
+        "last_success": "2025-01-07T11:24:36.966531"
       }
     },
     {
@@ -34,13 +34,13 @@
       "enabled": true,
       "metrics": {
         "total_configs": 19,
-        "valid_configs": 14,
-        "unique_configs": 14,
-        "avg_response_time": 0.37,
+        "valid_configs": 13,
+        "unique_configs": 13,
+        "avg_response_time": 0.41,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 92.87,
-        "last_success": "2025-01-07T10:40:00.847048"
+        "overall_score": 91.49,
+        "last_success": "2025-01-07T11:24:37.412014"
       }
     },
     {
@@ -53,8 +53,8 @@
         "avg_response_time": 0.47,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 96.35,
-        "last_success": "2025-01-07T10:40:01.345430"
+        "overall_score": 96.36,
+        "last_success": "2025-01-07T11:24:37.906927"
       }
     }
   ]
