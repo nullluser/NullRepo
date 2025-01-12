@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-01-12T08:33:53.188658",
+  "timestamp": "2025-01-12T09:26:53.740008",
   "channels": [
     {
       "url": "https://t.me/s/prrofile_purple",
@@ -8,11 +8,11 @@
         "total_configs": 120,
         "valid_configs": 22,
         "unique_configs": 20,
-        "avg_response_time": 1.11,
+        "avg_response_time": 0.61,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 75.65,
-        "last_success": "2025-01-12T08:33:51.882614"
+        "overall_score": 76.39,
+        "last_success": "2025-01-12T09:26:52.356686"
       }
     },
     {
@@ -20,13 +20,13 @@
       "enabled": true,
       "metrics": {
         "total_configs": 20,
-        "valid_configs": 11,
-        "unique_configs": 11,
-        "avg_response_time": 0.41,
+        "valid_configs": 10,
+        "unique_configs": 10,
+        "avg_response_time": 0.38,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 88.14,
-        "last_success": "2025-01-12T08:33:52.324100"
+        "overall_score": 86.93,
+        "last_success": "2025-01-12T09:26:52.796017"
       }
     },
     {
@@ -34,13 +34,13 @@
       "enabled": true,
       "metrics": {
         "total_configs": 17,
-        "valid_configs": 12,
-        "unique_configs": 12,
-        "avg_response_time": 0.39,
+        "valid_configs": 14,
+        "unique_configs": 14,
+        "avg_response_time": 0.46,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 92.06,
-        "last_success": "2025-01-12T08:33:52.755244"
+        "overall_score": 94.9,
+        "last_success": "2025-01-12T09:26:53.294539"
       }
     },
     {
@@ -50,11 +50,11 @@
         "total_configs": 19,
         "valid_configs": 15,
         "unique_configs": 15,
-        "avg_response_time": 0.41,
+        "avg_response_time": 0.42,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 94.13,
-        "last_success": "2025-01-12T08:33:53.187211"
+        "overall_score": 94.11,
+        "last_success": "2025-01-12T09:26:53.738474"
       }
     }
   ]
