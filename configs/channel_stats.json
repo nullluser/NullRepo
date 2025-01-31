@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-01-30T23:28:05.952907",
+  "timestamp": "2025-01-31T02:37:51.009793",
   "channels": [
     {
       "url": "https://t.me/s/prrofile_purple",
@@ -8,25 +8,25 @@
         "total_configs": 112,
         "valid_configs": 17,
         "unique_configs": 16,
-        "avg_response_time": 0.58,
+        "avg_response_time": 0.52,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 76.45,
-        "last_success": "2025-01-30T23:28:04.755570"
+        "overall_score": 76.55,
+        "last_success": "2025-01-31T02:37:49.868773"
       }
     },
     {
       "url": "https://t.me/s/v2ray_free_conf",
       "enabled": true,
       "metrics": {
-        "total_configs": 39,
-        "valid_configs": 28,
-        "unique_configs": 28,
-        "avg_response_time": 0.38,
+        "total_configs": 31,
+        "valid_configs": 22,
+        "unique_configs": 22,
+        "avg_response_time": 0.34,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 92.38,
-        "last_success": "2025-01-30T23:28:05.196927"
+        "overall_score": 92.23,
+        "last_success": "2025-01-31T02:37:50.277932"
       }
     },
     {
@@ -34,13 +34,13 @@
       "enabled": true,
       "metrics": {
         "total_configs": 18,
-        "valid_configs": 9,
-        "unique_configs": 9,
-        "avg_response_time": 0.35,
+        "valid_configs": 10,
+        "unique_configs": 10,
+        "avg_response_time": 0.33,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 86.98,
-        "last_success": "2025-01-30T23:28:05.575307"
+        "overall_score": 88.39,
+        "last_success": "2025-01-31T02:37:50.644484"
       }
     },
     {
@@ -50,11 +50,11 @@
         "total_configs": 18,
         "valid_configs": 15,
         "unique_configs": 15,
-        "avg_response_time": 0.35,
+        "avg_response_time": 0.34,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 95.31,
-        "last_success": "2025-01-30T23:28:05.951105"
+        "overall_score": 95.33,
+        "last_success": "2025-01-31T02:37:51.008377"
       }
     }
   ]
