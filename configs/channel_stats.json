@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-02-01T15:29:01.485370",
+  "timestamp": "2025-02-01T16:33:44.942457",
   "channels": [
     {
       "url": "https://t.me/s/prrofile_purple",
@@ -8,11 +8,11 @@
         "total_configs": 112,
         "valid_configs": 18,
         "unique_configs": 17,
-        "avg_response_time": 0.54,
+        "avg_response_time": 0.46,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 76.82,
-        "last_success": "2025-02-01T15:29:00.353226"
+        "overall_score": 76.95,
+        "last_success": "2025-02-01T16:33:43.808882"
       }
     },
     {
@@ -20,27 +20,27 @@
       "enabled": true,
       "metrics": {
         "total_configs": 20,
-        "valid_configs": 10,
-        "unique_configs": 10,
-        "avg_response_time": 0.34,
+        "valid_configs": 11,
+        "unique_configs": 11,
+        "avg_response_time": 0.36,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 86.99,
-        "last_success": "2025-02-01T15:29:00.736747"
+        "overall_score": 88.21,
+        "last_success": "2025-02-01T16:33:44.210556"
       }
     },
     {
       "url": "https://t.me/s/PrivateVPNs",
       "enabled": true,
       "metrics": {
-        "total_configs": 19,
-        "valid_configs": 10,
-        "unique_configs": 10,
-        "avg_response_time": 0.36,
+        "total_configs": 18,
+        "valid_configs": 9,
+        "unique_configs": 9,
+        "avg_response_time": 0.34,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 87.63,
-        "last_success": "2025-02-01T15:29:01.125348"
+        "overall_score": 86.99,
+        "last_success": "2025-02-01T16:33:44.582175"
       }
     },
     {
@@ -53,8 +53,8 @@
         "avg_response_time": 0.33,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 95.34,
-        "last_success": "2025-02-01T15:29:01.483517"
+        "overall_score": 95.33,
+        "last_success": "2025-02-01T16:33:44.940867"
       }
     }
   ]
