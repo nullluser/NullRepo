@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-02-03T10:37:12.181889",
+  "timestamp": "2025-02-03T11:22:41.547061",
   "channels": [
     {
       "url": "https://t.me/s/prrofile_purple",
@@ -8,11 +8,11 @@
         "total_configs": 112,
         "valid_configs": 18,
         "unique_configs": 17,
-        "avg_response_time": 0.67,
+        "avg_response_time": 0.59,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 76.62,
-        "last_success": "2025-02-03T10:36:59.481928"
+        "overall_score": 76.74,
+        "last_success": "2025-02-03T11:22:29.527661"
       }
     },
     {
@@ -22,11 +22,11 @@
         "total_configs": 49,
         "valid_configs": 36,
         "unique_configs": 36,
-        "avg_response_time": 0.53,
+        "avg_response_time": 0.41,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 92.57,
-        "last_success": "2025-02-03T10:37:00.048593"
+        "overall_score": 92.75,
+        "last_success": "2025-02-03T11:22:29.972205"
       }
     },
     {
@@ -50,11 +50,11 @@
         "total_configs": 17,
         "valid_configs": 15,
         "unique_configs": 15,
-        "avg_response_time": 0.48,
+        "avg_response_time": 0.38,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 96.34,
-        "last_success": "2025-02-03T10:37:12.180318"
+        "overall_score": 96.5,
+        "last_success": "2025-02-03T11:22:41.545139"
       }
     }
   ]
