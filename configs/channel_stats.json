@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-02-05T19:16:16.996252",
+  "timestamp": "2025-02-05T20:20:33.661046",
   "channels": [
     {
       "url": "https://t.me/s/prrofile_purple",
@@ -7,26 +7,26 @@
       "metrics": {
         "total_configs": 112,
         "valid_configs": 20,
-        "unique_configs": 17,
-        "avg_response_time": 0.57,
+        "unique_configs": 18,
+        "avg_response_time": 0.75,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 74.86,
-        "last_success": "2025-02-05T19:16:15.793479"
+        "overall_score": 75.84,
+        "last_success": "2025-02-05T20:20:32.337947"
       }
     },
     {
       "url": "https://t.me/s/v2ray_free_conf",
       "enabled": true,
       "metrics": {
-        "total_configs": 33,
-        "valid_configs": 15,
-        "unique_configs": 15,
-        "avg_response_time": 0.37,
+        "total_configs": 22,
+        "valid_configs": 16,
+        "unique_configs": 16,
+        "avg_response_time": 0.42,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 85.81,
-        "last_success": "2025-02-05T19:16:16.190792"
+        "overall_score": 92.56,
+        "last_success": "2025-02-05T20:20:32.785044"
       }
     },
     {
@@ -36,11 +36,11 @@
         "total_configs": 18,
         "valid_configs": 11,
         "unique_configs": 11,
-        "avg_response_time": 0.38,
+        "avg_response_time": 0.4,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 89.71,
-        "last_success": "2025-02-05T19:16:16.606549"
+        "overall_score": 89.67,
+        "last_success": "2025-02-05T20:20:33.221151"
       }
     },
     {
@@ -50,11 +50,11 @@
         "total_configs": 18,
         "valid_configs": 15,
         "unique_configs": 15,
-        "avg_response_time": 0.36,
+        "avg_response_time": 0.41,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 95.29,
-        "last_success": "2025-02-05T19:16:16.994275"
+        "overall_score": 95.21,
+        "last_success": "2025-02-05T20:20:33.659288"
       }
     }
   ]
