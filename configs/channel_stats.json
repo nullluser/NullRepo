@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-02-13T17:14:11.682255",
+  "timestamp": "2025-02-13T18:26:38.757834",
   "channels": [
     {
       "url": "https://t.me/s/prrofile_purple",
@@ -8,11 +8,11 @@
         "total_configs": 112,
         "valid_configs": 22,
         "unique_configs": 17,
-        "avg_response_time": 0.59,
+        "avg_response_time": 0.63,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 73.34,
-        "last_success": "2025-02-13T17:14:10.322787"
+        "overall_score": 73.29,
+        "last_success": "2025-02-13T18:26:37.438586"
       }
     },
     {
@@ -20,13 +20,13 @@
       "enabled": true,
       "metrics": {
         "total_configs": 20,
-        "valid_configs": 12,
-        "unique_configs": 12,
+        "valid_configs": 13,
+        "unique_configs": 13,
         "avg_response_time": 0.4,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 89.4,
-        "last_success": "2025-02-13T17:14:10.788279"
+        "overall_score": 90.65,
+        "last_success": "2025-02-13T18:26:37.889702"
       }
     },
     {
@@ -34,13 +34,13 @@
       "enabled": true,
       "metrics": {
         "total_configs": 18,
-        "valid_configs": 13,
-        "unique_configs": 13,
-        "avg_response_time": 0.42,
+        "valid_configs": 12,
+        "unique_configs": 12,
+        "avg_response_time": 0.34,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 92.42,
-        "last_success": "2025-02-13T17:14:11.247390"
+        "overall_score": 91.15,
+        "last_success": "2025-02-13T18:26:38.268496"
       }
     },
     {
@@ -50,11 +50,11 @@
         "total_configs": 19,
         "valid_configs": 15,
         "unique_configs": 15,
-        "avg_response_time": 0.41,
+        "avg_response_time": 0.46,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 94.13,
-        "last_success": "2025-02-13T17:14:11.680409"
+        "overall_score": 94.05,
+        "last_success": "2025-02-13T18:26:38.756051"
       }
     }
   ]
