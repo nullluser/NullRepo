@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-02-26T10:20:45.510965",
+  "timestamp": "2025-02-26T11:16:37.264586",
   "channels": [
     {
       "url": "https://t.me/s/prrofile_purple",
@@ -7,12 +7,12 @@
       "metrics": {
         "total_configs": 104,
         "valid_configs": 19,
-        "unique_configs": 19,
-        "avg_response_time": 0.72,
+        "unique_configs": 17,
+        "avg_response_time": 0.62,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 78.49,
-        "last_success": "2025-02-26T10:20:43.750088"
+        "overall_score": 76.0,
+        "last_success": "2025-02-26T11:16:35.881731"
       }
     },
     {
@@ -22,11 +22,11 @@
         "total_configs": 25,
         "valid_configs": 11,
         "unique_configs": 11,
-        "avg_response_time": 0.56,
+        "avg_response_time": 0.4,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 85.16,
-        "last_success": "2025-02-26T10:20:44.370797"
+        "overall_score": 85.41,
+        "last_success": "2025-02-26T11:16:36.380854"
       }
     },
     {
@@ -34,13 +34,13 @@
       "enabled": true,
       "metrics": {
         "total_configs": 19,
-        "valid_configs": 11,
-        "unique_configs": 11,
-        "avg_response_time": 0.54,
+        "valid_configs": 10,
+        "unique_configs": 10,
+        "avg_response_time": 0.39,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 88.67,
-        "last_success": "2025-02-26T10:20:44.942604"
+        "overall_score": 87.57,
+        "last_success": "2025-02-26T11:16:36.808691"
       }
     },
     {
@@ -50,11 +50,11 @@
         "total_configs": 19,
         "valid_configs": 15,
         "unique_configs": 15,
-        "avg_response_time": 0.54,
+        "avg_response_time": 0.43,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 93.93,
-        "last_success": "2025-02-26T10:20:45.509151"
+        "overall_score": 94.1,
+        "last_success": "2025-02-26T11:16:37.262777"
       }
     }
   ]
