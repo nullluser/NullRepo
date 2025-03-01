@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-03-01T07:17:06.971543",
+  "timestamp": "2025-03-01T08:22:43.928005",
   "channels": [
     {
       "url": "https://t.me/s/prrofile_purple",
@@ -8,11 +8,11 @@
         "total_configs": 104,
         "valid_configs": 18,
         "unique_configs": 17,
-        "avg_response_time": 0.74,
+        "avg_response_time": 0.52,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 76.83,
-        "last_success": "2025-03-01T07:17:05.268662"
+        "overall_score": 77.15,
+        "last_success": "2025-03-01T08:22:42.708596"
       }
     },
     {
@@ -22,25 +22,25 @@
         "total_configs": 20,
         "valid_configs": 13,
         "unique_configs": 13,
-        "avg_response_time": 0.53,
+        "avg_response_time": 0.36,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 90.46,
-        "last_success": "2025-03-01T07:17:05.837726"
+        "overall_score": 90.7,
+        "last_success": "2025-03-01T08:22:43.115901"
       }
     },
     {
       "url": "https://t.me/s/PrivateVPNs",
       "enabled": true,
       "metrics": {
-        "total_configs": 18,
-        "valid_configs": 9,
-        "unique_configs": 9,
-        "avg_response_time": 0.53,
+        "total_configs": 17,
+        "valid_configs": 11,
+        "unique_configs": 11,
+        "avg_response_time": 0.39,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 86.71,
-        "last_success": "2025-03-01T07:17:06.397749"
+        "overall_score": 90.59,
+        "last_success": "2025-03-01T08:22:43.537127"
       }
     },
     {
@@ -50,11 +50,11 @@
         "total_configs": 18,
         "valid_configs": 15,
         "unique_configs": 15,
-        "avg_response_time": 0.55,
+        "avg_response_time": 0.36,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 95.02,
-        "last_success": "2025-03-01T07:17:06.969945"
+        "overall_score": 95.29,
+        "last_success": "2025-03-01T08:22:43.926596"
       }
     }
   ]
