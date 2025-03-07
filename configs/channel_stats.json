@@ -1,18 +1,18 @@
 {
-  "timestamp": "2025-03-07T11:15:57.667893",
+  "timestamp": "2025-03-07T12:37:55.959330",
   "channels": [
     {
       "url": "https://t.me/s/prrofile_purple",
       "enabled": true,
       "metrics": {
-        "total_configs": 88,
+        "total_configs": 80,
         "valid_configs": 18,
         "unique_configs": 17,
-        "avg_response_time": 0.69,
+        "avg_response_time": 0.61,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 77.68,
-        "last_success": "2025-03-07T11:15:56.439747"
+        "overall_score": 78.32,
+        "last_success": "2025-03-07T12:37:54.546920"
       }
     },
     {
@@ -22,25 +22,25 @@
         "total_configs": 20,
         "valid_configs": 12,
         "unique_configs": 12,
-        "avg_response_time": 0.36,
+        "avg_response_time": 0.54,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 89.46,
-        "last_success": "2025-03-07T11:15:56.833012"
+        "overall_score": 89.2,
+        "last_success": "2025-03-07T12:37:55.131667"
       }
     },
     {
       "url": "https://t.me/s/PrivateVPNs",
       "enabled": true,
       "metrics": {
-        "total_configs": 17,
-        "valid_configs": 8,
-        "unique_configs": 8,
+        "total_configs": 19,
+        "valid_configs": 9,
+        "unique_configs": 9,
         "avg_response_time": 0.36,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 86.23,
-        "last_success": "2025-03-07T11:15:57.223126"
+        "overall_score": 86.3,
+        "last_success": "2025-03-07T12:37:55.527310"
       }
     },
     {
@@ -50,11 +50,11 @@
         "total_configs": 17,
         "valid_configs": 15,
         "unique_configs": 15,
-        "avg_response_time": 0.42,
+        "avg_response_time": 0.4,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 96.43,
-        "last_success": "2025-03-07T11:15:57.666140"
+        "overall_score": 96.45,
+        "last_success": "2025-03-07T12:37:55.957600"
       }
     }
   ]
