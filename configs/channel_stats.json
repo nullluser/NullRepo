@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-03-13T11:16:35.614773",
+  "timestamp": "2025-03-13T12:39:47.901934",
   "channels": [
     {
       "url": "https://t.me/s/prrofile_purple",
@@ -8,11 +8,11 @@
         "total_configs": 87,
         "valid_configs": 17,
         "unique_configs": 17,
-        "avg_response_time": 0.85,
+        "avg_response_time": 1.98,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 78.62,
-        "last_success": "2025-03-13T11:16:33.747335"
+        "overall_score": 76.91,
+        "last_success": "2025-03-13T12:39:45.511234"
       }
     },
     {
@@ -20,13 +20,13 @@
       "enabled": true,
       "metrics": {
         "total_configs": 20,
-        "valid_configs": 13,
-        "unique_configs": 13,
+        "valid_configs": 14,
+        "unique_configs": 14,
         "avg_response_time": 0.57,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 90.4,
-        "last_success": "2025-03-13T11:16:34.380738"
+        "overall_score": 91.64,
+        "last_success": "2025-03-13T12:39:46.184538"
       }
     },
     {
@@ -34,13 +34,13 @@
       "enabled": true,
       "metrics": {
         "total_configs": 17,
-        "valid_configs": 10,
-        "unique_configs": 10,
-        "avg_response_time": 0.67,
+        "valid_configs": 9,
+        "unique_configs": 9,
+        "avg_response_time": 0.41,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 88.71,
-        "last_success": "2025-03-13T11:16:35.080723"
+        "overall_score": 87.62,
+        "last_success": "2025-03-13T12:39:46.629988"
       }
     },
     {
@@ -50,11 +50,11 @@
         "total_configs": 20,
         "valid_configs": 15,
         "unique_configs": 15,
-        "avg_response_time": 0.5,
+        "avg_response_time": 1.24,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 92.99,
-        "last_success": "2025-03-13T11:16:35.612642"
+        "overall_score": 91.88,
+        "last_success": "2025-03-13T12:39:47.900118"
       }
     }
   ]
