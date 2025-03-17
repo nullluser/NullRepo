@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-03-17T06:29:02.019234",
+  "timestamp": "2025-03-17T07:20:14.035374",
   "channels": [
     {
       "url": "https://t.me/s/prrofile_purple",
@@ -8,11 +8,11 @@
         "total_configs": 86,
         "valid_configs": 18,
         "unique_configs": 16,
-        "avg_response_time": 0.55,
+        "avg_response_time": 0.59,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 76.63,
-        "last_success": "2025-03-17T06:29:00.779741"
+        "overall_score": 76.58,
+        "last_success": "2025-03-17T07:20:12.771109"
       }
     },
     {
@@ -20,27 +20,27 @@
       "enabled": true,
       "metrics": {
         "total_configs": 20,
-        "valid_configs": 13,
-        "unique_configs": 13,
-        "avg_response_time": 0.4,
+        "valid_configs": 12,
+        "unique_configs": 12,
+        "avg_response_time": 0.45,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 90.65,
-        "last_success": "2025-03-17T06:29:01.211593"
+        "overall_score": 89.33,
+        "last_success": "2025-03-17T07:20:13.261263"
       }
     },
     {
       "url": "https://t.me/s/PrivateVPNs",
       "enabled": true,
       "metrics": {
-        "total_configs": 17,
+        "total_configs": 18,
         "valid_configs": 10,
         "unique_configs": 10,
-        "avg_response_time": 0.4,
+        "avg_response_time": 0.36,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 89.11,
-        "last_success": "2025-03-17T06:29:01.640837"
+        "overall_score": 88.35,
+        "last_success": "2025-03-17T07:20:13.655456"
       }
     },
     {
@@ -54,7 +54,7 @@
         "success_count": 1,
         "fail_count": 0,
         "overall_score": 94.21,
-        "last_success": "2025-03-17T06:29:02.017460"
+        "last_success": "2025-03-17T07:20:14.033890"
       }
     }
   ]
