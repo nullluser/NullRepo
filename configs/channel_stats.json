@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-03-18T01:38:30.708515",
+  "timestamp": "2025-03-18T02:58:36.149232",
   "channels": [
     {
       "url": "https://t.me/s/prrofile_purple",
@@ -8,11 +8,11 @@
         "total_configs": 86,
         "valid_configs": 16,
         "unique_configs": 16,
-        "avg_response_time": 0.67,
+        "avg_response_time": 0.66,
         "success_count": 1,
         "fail_count": 0,
         "overall_score": 78.65,
-        "last_success": "2025-03-18T01:38:29.443415"
+        "last_success": "2025-03-18T02:58:34.899278"
       }
     },
     {
@@ -20,13 +20,13 @@
       "enabled": true,
       "metrics": {
         "total_configs": 20,
-        "valid_configs": 13,
-        "unique_configs": 13,
-        "avg_response_time": 0.37,
+        "valid_configs": 14,
+        "unique_configs": 14,
+        "avg_response_time": 0.35,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 90.69,
-        "last_success": "2025-03-18T01:38:29.849349"
+        "overall_score": 91.97,
+        "last_success": "2025-03-18T02:58:35.286544"
       }
     },
     {
@@ -34,13 +34,13 @@
       "enabled": true,
       "metrics": {
         "total_configs": 18,
-        "valid_configs": 12,
-        "unique_configs": 12,
-        "avg_response_time": 0.35,
+        "valid_configs": 11,
+        "unique_configs": 11,
+        "avg_response_time": 0.34,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 91.14,
-        "last_success": "2025-03-18T01:38:30.236213"
+        "overall_score": 89.77,
+        "last_success": "2025-03-18T02:58:35.660226"
       }
     },
     {
@@ -50,11 +50,11 @@
         "total_configs": 18,
         "valid_configs": 15,
         "unique_configs": 15,
-        "avg_response_time": 0.44,
+        "avg_response_time": 0.46,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 95.17,
-        "last_success": "2025-03-18T01:38:30.706737"
+        "overall_score": 95.14,
+        "last_success": "2025-03-18T02:58:36.147514"
       }
     }
   ]
