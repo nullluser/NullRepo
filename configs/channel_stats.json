@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-03-20T07:18:38.622656",
+  "timestamp": "2025-03-20T08:26:21.622981",
   "channels": [
     {
       "url": "https://t.me/s/prrofile_purple",
@@ -8,11 +8,11 @@
         "total_configs": 78,
         "valid_configs": 17,
         "unique_configs": 16,
-        "avg_response_time": 0.59,
+        "avg_response_time": 0.69,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 78.1,
-        "last_success": "2025-03-20T07:18:37.395159"
+        "overall_score": 77.95,
+        "last_success": "2025-03-20T08:26:20.381297"
       }
     },
     {
@@ -20,27 +20,27 @@
       "enabled": true,
       "metrics": {
         "total_configs": 22,
-        "valid_configs": 13,
-        "unique_configs": 13,
-        "avg_response_time": 0.37,
+        "valid_configs": 14,
+        "unique_configs": 14,
+        "avg_response_time": 0.36,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 89.22,
-        "last_success": "2025-03-20T07:18:37.817997"
+        "overall_score": 90.37,
+        "last_success": "2025-03-20T08:26:20.810656"
       }
     },
     {
       "url": "https://t.me/s/PrivateVPNs",
       "enabled": true,
       "metrics": {
-        "total_configs": 18,
+        "total_configs": 17,
         "valid_configs": 11,
         "unique_configs": 11,
         "avg_response_time": 0.38,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 89.7,
-        "last_success": "2025-03-20T07:18:38.234124"
+        "overall_score": 90.6,
+        "last_success": "2025-03-20T08:26:21.227802"
       }
     },
     {
@@ -50,11 +50,11 @@
         "total_configs": 17,
         "valid_configs": 15,
         "unique_configs": 15,
-        "avg_response_time": 0.36,
+        "avg_response_time": 0.37,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 96.52,
-        "last_success": "2025-03-20T07:18:38.620964"
+        "overall_score": 96.51,
+        "last_success": "2025-03-20T08:26:21.621073"
       }
     }
   ]
