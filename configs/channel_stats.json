@@ -1,18 +1,18 @@
 {
-  "timestamp": "2025-03-29T23:17:58.156469",
+  "timestamp": "2025-03-30T01:45:57.375213",
   "channels": [
     {
       "url": "https://t.me/s/prrofile_purple",
       "enabled": true,
       "metrics": {
-        "total_configs": 87,
+        "total_configs": 79,
         "valid_configs": 16,
         "unique_configs": 16,
         "avg_response_time": 0.63,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 78.65,
-        "last_success": "2025-03-29T23:17:56.618657"
+        "overall_score": 79.12,
+        "last_success": "2025-03-30T01:45:56.176936"
       }
     },
     {
@@ -22,11 +22,11 @@
         "total_configs": 20,
         "valid_configs": 12,
         "unique_configs": 12,
-        "avg_response_time": 0.55,
+        "avg_response_time": 0.36,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 89.18,
-        "last_success": "2025-03-29T23:17:57.259635"
+        "overall_score": 89.47,
+        "last_success": "2025-03-30T01:45:56.643661"
       }
     },
     {
@@ -34,13 +34,13 @@
       "enabled": true,
       "metrics": {
         "total_configs": 17,
-        "valid_configs": 13,
-        "unique_configs": 12,
-        "avg_response_time": 0.43,
+        "valid_configs": 12,
+        "unique_configs": 11,
+        "avg_response_time": 0.33,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 91.55,
-        "last_success": "2025-03-29T23:17:57.722779"
+        "overall_score": 90.07,
+        "last_success": "2025-03-30T01:45:57.007607"
       }
     },
     {
@@ -50,11 +50,11 @@
         "total_configs": 19,
         "valid_configs": 15,
         "unique_configs": 15,
-        "avg_response_time": 0.41,
+        "avg_response_time": 0.34,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 94.13,
-        "last_success": "2025-03-29T23:17:58.154968"
+        "overall_score": 94.23,
+        "last_success": "2025-03-30T01:45:57.373670"
       }
     }
   ]
