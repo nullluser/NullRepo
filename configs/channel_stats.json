@@ -1,18 +1,18 @@
 {
-  "timestamp": "2025-03-31T19:16:28.973421",
+  "timestamp": "2025-03-31T20:22:44.577250",
   "channels": [
     {
       "url": "https://t.me/s/prrofile_purple",
       "enabled": true,
       "metrics": {
-        "total_configs": 70,
-        "valid_configs": 16,
+        "total_configs": 63,
+        "valid_configs": 17,
         "unique_configs": 16,
-        "avg_response_time": 0.72,
+        "avg_response_time": 0.7,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 79.63,
-        "last_success": "2025-03-31T19:16:27.563790"
+        "overall_score": 79.23,
+        "last_success": "2025-03-31T20:22:43.252251"
       }
     },
     {
@@ -22,25 +22,25 @@
         "total_configs": 20,
         "valid_configs": 9,
         "unique_configs": 9,
-        "avg_response_time": 0.43,
+        "avg_response_time": 0.5,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 85.6,
-        "last_success": "2025-03-31T19:16:28.062461"
+        "overall_score": 85.51,
+        "last_success": "2025-03-31T20:22:43.813330"
       }
     },
     {
       "url": "https://t.me/s/PrivateVPNs",
       "enabled": true,
       "metrics": {
-        "total_configs": 18,
+        "total_configs": 17,
         "valid_configs": 13,
         "unique_configs": 12,
-        "avg_response_time": 0.43,
+        "avg_response_time": 0.35,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 90.49,
-        "last_success": "2025-03-31T19:16:28.524190"
+        "overall_score": 91.67,
+        "last_success": "2025-03-31T20:22:44.197382"
       }
     },
     {
@@ -50,11 +50,11 @@
         "total_configs": 18,
         "valid_configs": 15,
         "unique_configs": 15,
-        "avg_response_time": 0.42,
+        "avg_response_time": 0.35,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 95.2,
-        "last_success": "2025-03-31T19:16:28.971710"
+        "overall_score": 95.31,
+        "last_success": "2025-03-31T20:22:44.575462"
       }
     }
   ]
