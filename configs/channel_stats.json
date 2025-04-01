@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-04-01T07:20:40.436696",
+  "timestamp": "2025-04-01T08:27:40.966789",
   "channels": [
     {
       "url": "https://t.me/s/prrofile_purple",
@@ -8,11 +8,11 @@
         "total_configs": 63,
         "valid_configs": 17,
         "unique_configs": 16,
-        "avg_response_time": 0.65,
+        "avg_response_time": 1.08,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 79.3,
-        "last_success": "2025-04-01T07:20:39.249513"
+        "overall_score": 78.65,
+        "last_success": "2025-04-01T08:27:38.169663"
       }
     },
     {
@@ -22,25 +22,25 @@
         "total_configs": 27,
         "valid_configs": 19,
         "unique_configs": 19,
-        "avg_response_time": 0.37,
+        "avg_response_time": 0.73,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 92.04,
-        "last_success": "2025-04-01T07:20:39.652960"
+        "overall_score": 91.5,
+        "last_success": "2025-04-01T08:27:38.930492"
       }
     },
     {
       "url": "https://t.me/s/PrivateVPNs",
       "enabled": true,
       "metrics": {
-        "total_configs": 17,
-        "valid_configs": 12,
-        "unique_configs": 11,
-        "avg_response_time": 0.35,
+        "total_configs": 16,
+        "valid_configs": 11,
+        "unique_configs": 10,
+        "avg_response_time": 0.69,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 90.03,
-        "last_success": "2025-04-01T07:20:40.038694"
+        "overall_score": 88.87,
+        "last_success": "2025-04-01T08:27:39.658824"
       }
     },
     {
@@ -50,11 +50,11 @@
         "total_configs": 18,
         "valid_configs": 15,
         "unique_configs": 15,
-        "avg_response_time": 0.37,
+        "avg_response_time": 1.28,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 95.28,
-        "last_success": "2025-04-01T07:20:40.435207"
+        "overall_score": 93.91,
+        "last_success": "2025-04-01T08:27:40.964927"
       }
     }
   ]
