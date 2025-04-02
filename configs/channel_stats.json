@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-04-02T14:19:50.803885",
+  "timestamp": "2025-04-02T15:21:55.611731",
   "channels": [
     {
       "url": "https://t.me/s/prrofile_purple",
@@ -8,11 +8,11 @@
         "total_configs": 62,
         "valid_configs": 17,
         "unique_configs": 15,
-        "avg_response_time": 0.56,
+        "avg_response_time": 1.1,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 78.07,
-        "last_success": "2025-04-02T14:19:49.172904"
+        "overall_score": 77.26,
+        "last_success": "2025-04-02T15:21:53.630685"
       }
     },
     {
@@ -20,13 +20,13 @@
       "enabled": true,
       "metrics": {
         "total_configs": 20,
-        "valid_configs": 10,
-        "unique_configs": 10,
-        "avg_response_time": 0.45,
+        "valid_configs": 9,
+        "unique_configs": 9,
+        "avg_response_time": 0.57,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 86.82,
-        "last_success": "2025-04-02T14:19:49.691716"
+        "overall_score": 85.4,
+        "last_success": "2025-04-02T15:21:54.282127"
       }
     },
     {
@@ -35,12 +35,12 @@
       "metrics": {
         "total_configs": 16,
         "valid_configs": 16,
-        "unique_configs": 14,
-        "avg_response_time": 0.39,
+        "unique_configs": 15,
+        "avg_response_time": 0.55,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 96.3,
-        "last_success": "2025-04-02T14:19:50.112628"
+        "overall_score": 97.62,
+        "last_success": "2025-04-02T15:21:54.859864"
       }
     },
     {
@@ -50,11 +50,11 @@
         "total_configs": 18,
         "valid_configs": 15,
         "unique_configs": 15,
-        "avg_response_time": 0.66,
+        "avg_response_time": 0.72,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 94.84,
-        "last_success": "2025-04-02T14:19:50.802090"
+        "overall_score": 94.75,
+        "last_success": "2025-04-02T15:21:55.610163"
       }
     }
   ]
