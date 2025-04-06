@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-04-06T06:27:38.718388",
+  "timestamp": "2025-04-06T07:17:25.661800",
   "channels": [
     {
       "url": "https://t.me/s/prrofile_purple",
@@ -8,11 +8,11 @@
         "total_configs": 61,
         "valid_configs": 17,
         "unique_configs": 16,
-        "avg_response_time": 0.82,
+        "avg_response_time": 1.55,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 79.27,
-        "last_success": "2025-04-06T06:27:37.306299"
+        "overall_score": 78.18,
+        "last_success": "2025-04-06T07:17:24.285770"
       }
     },
     {
@@ -20,27 +20,27 @@
       "enabled": true,
       "metrics": {
         "total_configs": 20,
-        "valid_configs": 12,
-        "unique_configs": 12,
-        "avg_response_time": 0.43,
+        "valid_configs": 13,
+        "unique_configs": 13,
+        "avg_response_time": 0.42,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 89.35,
-        "last_success": "2025-04-06T06:27:37.811178"
+        "overall_score": 90.62,
+        "last_success": "2025-04-06T07:17:24.777136"
       }
     },
     {
       "url": "https://t.me/s/PrivateVPNs",
       "enabled": true,
       "metrics": {
-        "total_configs": 17,
+        "total_configs": 18,
         "valid_configs": 12,
         "unique_configs": 12,
         "avg_response_time": 0.44,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 91.98,
-        "last_success": "2025-04-06T06:27:38.287440"
+        "overall_score": 91.01,
+        "last_success": "2025-04-06T07:17:25.248262"
       }
     },
     {
@@ -50,11 +50,11 @@
         "total_configs": 19,
         "valid_configs": 15,
         "unique_configs": 15,
-        "avg_response_time": 0.4,
+        "avg_response_time": 0.39,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 94.13,
-        "last_success": "2025-04-06T06:27:38.716808"
+        "overall_score": 94.16,
+        "last_success": "2025-04-06T07:17:25.660113"
       }
     }
   ]
