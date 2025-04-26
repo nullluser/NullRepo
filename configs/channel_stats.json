@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-04-26T08:24:30.857633",
+  "timestamp": "2025-04-26T09:19:35.481602",
   "channels": [
     {
       "url": "https://t.me/s/prrofile_purple",
@@ -8,11 +8,11 @@
         "total_configs": 46,
         "valid_configs": 16,
         "unique_configs": 15,
-        "avg_response_time": 1.45,
+        "avg_response_time": 0.73,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 79.95,
-        "last_success": "2025-04-26T08:24:28.069621"
+        "overall_score": 81.04,
+        "last_success": "2025-04-26T09:19:34.291788"
       }
     },
     {
@@ -20,13 +20,13 @@
       "enabled": true,
       "metrics": {
         "total_configs": 20,
-        "valid_configs": 15,
-        "unique_configs": 15,
+        "valid_configs": 16,
+        "unique_configs": 16,
         "avg_response_time": 0.34,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 93.25,
-        "last_success": "2025-04-26T08:24:28.446497"
+        "overall_score": 94.49,
+        "last_success": "2025-04-26T09:19:34.690338"
       }
     },
     {
@@ -34,13 +34,13 @@
       "enabled": true,
       "metrics": {
         "total_configs": 14,
-        "valid_configs": 7,
-        "unique_configs": 7,
-        "avg_response_time": 1.39,
+        "valid_configs": 9,
+        "unique_configs": 9,
+        "avg_response_time": 0.39,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 85.42,
-        "last_success": "2025-04-26T08:24:29.873322"
+        "overall_score": 90.49,
+        "last_success": "2025-04-26T09:19:35.116625"
       }
     },
     {
@@ -50,11 +50,11 @@
         "total_configs": 19,
         "valid_configs": 15,
         "unique_configs": 15,
-        "avg_response_time": 0.96,
+        "avg_response_time": 0.34,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 93.3,
-        "last_success": "2025-04-26T08:24:30.855793"
+        "overall_score": 94.23,
+        "last_success": "2025-04-26T09:19:35.479852"
       }
     }
   ]
