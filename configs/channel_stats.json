@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-05-09T18:29:11.848570",
+  "timestamp": "2025-05-09T19:16:34.739546",
   "channels": [
     {
       "url": "https://t.me/s/prrofile_purple",
@@ -8,11 +8,11 @@
         "total_configs": 39,
         "valid_configs": 17,
         "unique_configs": 16,
-        "avg_response_time": 0.83,
+        "avg_response_time": 0.55,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 83.19,
-        "last_success": "2025-05-09T18:29:10.153688"
+        "overall_score": 83.61,
+        "last_success": "2025-05-09T19:16:33.604564"
       }
     },
     {
@@ -22,25 +22,25 @@
         "total_configs": 24,
         "valid_configs": 7,
         "unique_configs": 7,
-        "avg_response_time": 0.54,
+        "avg_response_time": 0.34,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 81.49,
-        "last_success": "2025-05-09T18:29:10.753910"
+        "overall_score": 81.78,
+        "last_success": "2025-05-09T19:16:33.992521"
       }
     },
     {
       "url": "https://t.me/s/PrivateVPNs",
       "enabled": true,
       "metrics": {
-        "total_configs": 10,
-        "valid_configs": 10,
-        "unique_configs": 10,
-        "avg_response_time": 0.52,
+        "total_configs": 9,
+        "valid_configs": 9,
+        "unique_configs": 9,
+        "avg_response_time": 0.33,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 99.22,
-        "last_success": "2025-05-09T18:29:11.303551"
+        "overall_score": 99.5,
+        "last_success": "2025-05-09T19:16:34.356803"
       }
     },
     {
@@ -50,11 +50,11 @@
         "total_configs": 18,
         "valid_configs": 15,
         "unique_configs": 15,
-        "avg_response_time": 0.52,
+        "avg_response_time": 0.36,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 95.06,
-        "last_success": "2025-05-09T18:29:11.846742"
+        "overall_score": 95.3,
+        "last_success": "2025-05-09T19:16:34.738319"
       }
     }
   ]
