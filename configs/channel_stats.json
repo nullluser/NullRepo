@@ -1,18 +1,18 @@
 {
-  "timestamp": "2025-05-11T19:15:18.942530",
+  "timestamp": "2025-05-11T20:20:54.135237",
   "channels": [
     {
       "url": "https://t.me/s/prrofile_purple",
       "enabled": true,
       "metrics": {
-        "total_configs": 40,
+        "total_configs": 48,
         "valid_configs": 15,
         "unique_configs": 15,
-        "avg_response_time": 0.55,
+        "avg_response_time": 0.59,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 83.55,
-        "last_success": "2025-05-11T19:15:17.775871"
+        "overall_score": 81.93,
+        "last_success": "2025-05-11T20:20:52.983207"
       }
     },
     {
@@ -22,11 +22,11 @@
         "total_configs": 20,
         "valid_configs": 10,
         "unique_configs": 10,
-        "avg_response_time": 0.38,
+        "avg_response_time": 0.34,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 86.94,
-        "last_success": "2025-05-11T19:15:18.218187"
+        "overall_score": 87.0,
+        "last_success": "2025-05-11T20:20:53.395108"
       }
     },
     {
@@ -34,13 +34,13 @@
       "enabled": true,
       "metrics": {
         "total_configs": 20,
-        "valid_configs": 14,
-        "unique_configs": 13,
-        "avg_response_time": 0.33,
+        "valid_configs": 13,
+        "unique_configs": 12,
+        "avg_response_time": 0.32,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 90.22,
-        "last_success": "2025-05-11T19:15:18.575968"
+        "overall_score": 88.84,
+        "last_success": "2025-05-11T20:20:53.749358"
       }
     },
     {
@@ -50,11 +50,11 @@
         "total_configs": 19,
         "valid_configs": 15,
         "unique_configs": 15,
-        "avg_response_time": 0.34,
+        "avg_response_time": 0.36,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 94.23,
-        "last_success": "2025-05-11T19:15:18.940816"
+        "overall_score": 94.2,
+        "last_success": "2025-05-11T20:20:54.133451"
       }
     }
   ]
