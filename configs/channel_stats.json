@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-05-24T17:16:47.894925",
+  "timestamp": "2025-05-24T18:27:01.997908",
   "channels": [
     {
       "url": "https://t.me/s/prrofile_purple",
@@ -8,11 +8,11 @@
         "total_configs": 39,
         "valid_configs": 15,
         "unique_configs": 15,
-        "avg_response_time": 0.66,
+        "avg_response_time": 0.77,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 83.63,
-        "last_success": "2025-05-24T17:16:46.476790"
+        "overall_score": 83.45,
+        "last_success": "2025-05-24T18:27:00.225907"
       }
     },
     {
@@ -20,13 +20,13 @@
       "enabled": true,
       "metrics": {
         "total_configs": 20,
-        "valid_configs": 12,
-        "unique_configs": 12,
-        "avg_response_time": 0.42,
+        "valid_configs": 10,
+        "unique_configs": 10,
+        "avg_response_time": 0.52,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 89.37,
-        "last_success": "2025-05-24T17:16:46.986761"
+        "overall_score": 86.72,
+        "last_success": "2025-05-24T18:27:00.806355"
       }
     },
     {
@@ -34,27 +34,27 @@
       "enabled": true,
       "metrics": {
         "total_configs": 16,
-        "valid_configs": 14,
-        "unique_configs": 11,
-        "avg_response_time": 0.44,
+        "valid_configs": 15,
+        "unique_configs": 12,
+        "avg_response_time": 0.53,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 90.86,
-        "last_success": "2025-05-24T17:16:47.465252"
+        "overall_score": 92.64,
+        "last_success": "2025-05-24T18:27:01.373320"
       }
     },
     {
       "url": "https://t.me/s/freewireguard",
       "enabled": true,
       "metrics": {
-        "total_configs": 18,
+        "total_configs": 17,
         "valid_configs": 15,
         "unique_configs": 15,
-        "avg_response_time": 0.4,
+        "avg_response_time": 0.6,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 95.23,
-        "last_success": "2025-05-24T17:16:47.893286"
+        "overall_score": 96.16,
+        "last_success": "2025-05-24T18:27:01.996670"
       }
     }
   ]
