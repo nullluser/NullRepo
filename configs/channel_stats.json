@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-06-09T23:20:30.202198",
+  "timestamp": "2025-06-10T01:50:47.201371",
   "channels": [
     {
       "url": "https://t.me/s/prrofile_purple",
@@ -8,11 +8,11 @@
         "total_configs": 32,
         "valid_configs": 19,
         "unique_configs": 16,
-        "avg_response_time": 0.6,
+        "avg_response_time": 0.61,
         "success_count": 1,
         "fail_count": 0,
         "overall_score": 84.99,
-        "last_success": "2025-06-09T23:20:28.995138"
+        "last_success": "2025-06-10T01:50:45.930492"
       }
     },
     {
@@ -20,13 +20,13 @@
       "enabled": true,
       "metrics": {
         "total_configs": 20,
-        "valid_configs": 11,
-        "unique_configs": 11,
-        "avg_response_time": 0.34,
+        "valid_configs": 14,
+        "unique_configs": 14,
+        "avg_response_time": 0.38,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 88.24,
-        "last_success": "2025-06-09T23:20:29.445643"
+        "overall_score": 91.93,
+        "last_success": "2025-06-10T01:50:46.351269"
       }
     },
     {
@@ -34,13 +34,13 @@
       "enabled": true,
       "metrics": {
         "total_configs": 16,
-        "valid_configs": 15,
-        "unique_configs": 14,
-        "avg_response_time": 0.35,
+        "valid_configs": 13,
+        "unique_configs": 12,
+        "avg_response_time": 0.39,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 96.25,
-        "last_success": "2025-06-09T23:20:29.827573"
+        "overall_score": 92.8,
+        "last_success": "2025-06-10T01:50:46.775259"
       }
     },
     {
@@ -50,11 +50,11 @@
         "total_configs": 16,
         "valid_configs": 15,
         "unique_configs": 15,
-        "avg_response_time": 0.35,
+        "avg_response_time": 0.4,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 97.92,
-        "last_success": "2025-06-09T23:20:30.200459"
+        "overall_score": 97.84,
+        "last_success": "2025-06-10T01:50:47.199663"
       }
     }
   ]
