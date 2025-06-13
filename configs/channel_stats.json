@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-06-13T15:23:19.301969",
+  "timestamp": "2025-06-13T16:27:30.086794",
   "channels": [
     {
       "url": "https://t.me/s/prrofile_purple",
@@ -8,11 +8,11 @@
         "total_configs": 55,
         "valid_configs": 21,
         "unique_configs": 20,
-        "avg_response_time": 0.61,
+        "avg_response_time": 0.55,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 82.44,
-        "last_success": "2025-06-13T15:23:18.030746"
+        "overall_score": 82.53,
+        "last_success": "2025-06-13T16:27:28.923775"
       }
     },
     {
@@ -20,13 +20,13 @@
       "enabled": true,
       "metrics": {
         "total_configs": 20,
-        "valid_configs": 13,
-        "unique_configs": 13,
-        "avg_response_time": 0.38,
+        "valid_configs": 14,
+        "unique_configs": 14,
+        "avg_response_time": 0.33,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 90.69,
-        "last_success": "2025-06-13T15:23:18.462414"
+        "overall_score": 92.0,
+        "last_success": "2025-06-13T16:27:29.357191"
       }
     },
     {
@@ -34,13 +34,13 @@
       "enabled": true,
       "metrics": {
         "total_configs": 18,
-        "valid_configs": 8,
-        "unique_configs": 8,
-        "avg_response_time": 0.38,
+        "valid_configs": 7,
+        "unique_configs": 7,
+        "avg_response_time": 0.34,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 85.55,
-        "last_success": "2025-06-13T15:23:18.873292"
+        "overall_score": 84.21,
+        "last_success": "2025-06-13T16:27:29.732085"
       }
     },
     {
@@ -50,11 +50,11 @@
         "total_configs": 11,
         "valid_configs": 11,
         "unique_configs": 11,
-        "avg_response_time": 0.4,
+        "avg_response_time": 0.33,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 99.4,
-        "last_success": "2025-06-13T15:23:19.300196"
+        "overall_score": 99.51,
+        "last_success": "2025-06-13T16:27:30.085537"
       }
     }
   ]
