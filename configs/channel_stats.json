@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-06-14T01:46:12.747288",
+  "timestamp": "2025-06-14T03:13:04.527419",
   "channels": [
     {
       "url": "https://t.me/s/prrofile_purple",
@@ -8,11 +8,11 @@
         "total_configs": 63,
         "valid_configs": 26,
         "unique_configs": 25,
-        "avg_response_time": 0.76,
+        "avg_response_time": 0.58,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 83.21,
-        "last_success": "2025-06-14T01:46:11.009755"
+        "overall_score": 83.48,
+        "last_success": "2025-06-14T03:13:03.410420"
       }
     },
     {
@@ -22,11 +22,11 @@
         "total_configs": 20,
         "valid_configs": 14,
         "unique_configs": 14,
-        "avg_response_time": 0.52,
+        "avg_response_time": 0.34,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 91.72,
-        "last_success": "2025-06-14T01:46:11.628063"
+        "overall_score": 92.0,
+        "last_success": "2025-06-14T03:13:03.816358"
       }
     },
     {
@@ -36,25 +36,25 @@
         "total_configs": 16,
         "valid_configs": 9,
         "unique_configs": 9,
-        "avg_response_time": 0.54,
+        "avg_response_time": 0.33,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 88.25,
-        "last_success": "2025-06-14T01:46:12.205823"
+        "overall_score": 88.57,
+        "last_success": "2025-06-14T03:13:04.175920"
       }
     },
     {
       "url": "https://t.me/s/freewireguard",
       "enabled": true,
       "metrics": {
-        "total_configs": 11,
-        "valid_configs": 11,
-        "unique_configs": 11,
-        "avg_response_time": 0.51,
+        "total_configs": 9,
+        "valid_configs": 9,
+        "unique_configs": 9,
+        "avg_response_time": 0.32,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 99.23,
-        "last_success": "2025-06-14T01:46:12.745834"
+        "overall_score": 99.52,
+        "last_success": "2025-06-14T03:13:04.526071"
       }
     }
   ]
