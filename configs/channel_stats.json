@@ -1,18 +1,18 @@
 {
-  "timestamp": "2025-06-14T22:19:42.179557",
+  "timestamp": "2025-06-14T23:22:01.998960",
   "channels": [
     {
       "url": "https://t.me/s/prrofile_purple",
       "enabled": true,
       "metrics": {
-        "total_configs": 91,
-        "valid_configs": 28,
-        "unique_configs": 27,
-        "avg_response_time": 0.61,
+        "total_configs": 90,
+        "valid_configs": 27,
+        "unique_configs": 26,
+        "avg_response_time": 0.59,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 80.89,
-        "last_success": "2025-06-14T22:19:40.966739"
+        "overall_score": 80.68,
+        "last_success": "2025-06-14T23:22:00.823105"
       }
     },
     {
@@ -20,13 +20,13 @@
       "enabled": true,
       "metrics": {
         "total_configs": 20,
-        "valid_configs": 11,
-        "unique_configs": 11,
+        "valid_configs": 12,
+        "unique_configs": 12,
         "avg_response_time": 0.34,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 88.25,
-        "last_success": "2025-06-14T22:19:41.370940"
+        "overall_score": 89.49,
+        "last_success": "2025-06-14T23:22:01.233916"
       }
     },
     {
@@ -36,11 +36,11 @@
         "total_configs": 18,
         "valid_configs": 12,
         "unique_configs": 12,
-        "avg_response_time": 0.35,
+        "avg_response_time": 0.37,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 91.14,
-        "last_success": "2025-06-14T22:19:41.758751"
+        "overall_score": 91.11,
+        "last_success": "2025-06-14T23:22:01.642372"
       }
     },
     {
@@ -50,11 +50,11 @@
         "total_configs": 6,
         "valid_configs": 6,
         "unique_configs": 6,
-        "avg_response_time": 0.39,
+        "avg_response_time": 0.33,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 99.41,
-        "last_success": "2025-06-14T22:19:42.177748"
+        "overall_score": 99.51,
+        "last_success": "2025-06-14T23:22:01.997339"
       }
     }
   ]
