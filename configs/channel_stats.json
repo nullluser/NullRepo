@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-06-18T05:21:33.880723",
+  "timestamp": "2025-06-18T06:32:16.474343",
   "channels": [
     {
       "url": "https://t.me/s/prrofile_purple",
@@ -8,11 +8,11 @@
         "total_configs": 136,
         "valid_configs": 28,
         "unique_configs": 27,
-        "avg_response_time": 0.64,
+        "avg_response_time": 0.78,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 78.29,
-        "last_success": "2025-06-18T05:21:32.427580"
+        "overall_score": 78.09,
+        "last_success": "2025-06-18T06:32:14.679640"
       }
     },
     {
@@ -20,13 +20,13 @@
       "enabled": true,
       "metrics": {
         "total_configs": 20,
-        "valid_configs": 13,
-        "unique_configs": 13,
-        "avg_response_time": 0.43,
+        "valid_configs": 16,
+        "unique_configs": 16,
+        "avg_response_time": 0.53,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 90.61,
-        "last_success": "2025-06-18T05:21:32.917495"
+        "overall_score": 94.2,
+        "last_success": "2025-06-18T06:32:15.252180"
       }
     },
     {
@@ -34,27 +34,27 @@
       "enabled": true,
       "metrics": {
         "total_configs": 16,
-        "valid_configs": 7,
-        "unique_configs": 7,
-        "avg_response_time": 0.42,
+        "valid_configs": 6,
+        "unique_configs": 6,
+        "avg_response_time": 0.53,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 85.31,
-        "last_success": "2025-06-18T05:21:33.371847"
+        "overall_score": 83.58,
+        "last_success": "2025-06-18T06:32:15.817690"
       }
     },
     {
       "url": "https://t.me/s/freewireguard",
       "enabled": true,
       "metrics": {
-        "total_configs": 9,
-        "valid_configs": 9,
-        "unique_configs": 9,
-        "avg_response_time": 0.48,
+        "total_configs": 10,
+        "valid_configs": 10,
+        "unique_configs": 10,
+        "avg_response_time": 0.63,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 99.28,
-        "last_success": "2025-06-18T05:21:33.879493"
+        "overall_score": 99.06,
+        "last_success": "2025-06-18T06:32:16.472556"
       }
     }
   ]
