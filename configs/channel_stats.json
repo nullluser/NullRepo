@@ -1,18 +1,18 @@
 {
-  "timestamp": "2025-06-20T12:44:49.167291",
+  "timestamp": "2025-06-20T13:32:13.930767",
   "channels": [
     {
       "url": "https://t.me/s/prrofile_purple",
       "enabled": true,
       "metrics": {
-        "total_configs": 84,
-        "valid_configs": 17,
-        "unique_configs": 17,
-        "avg_response_time": 0.49,
+        "total_configs": 71,
+        "valid_configs": 16,
+        "unique_configs": 16,
+        "avg_response_time": 0.59,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 79.33,
-        "last_success": "2025-06-20T12:44:47.838328"
+        "overall_score": 79.74,
+        "last_success": "2025-06-20T13:32:12.386643"
       }
     },
     {
@@ -22,11 +22,11 @@
         "total_configs": 20,
         "valid_configs": 9,
         "unique_configs": 9,
-        "avg_response_time": 0.39,
+        "avg_response_time": 0.48,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 85.66,
-        "last_success": "2025-06-20T12:44:48.293928"
+        "overall_score": 85.53,
+        "last_success": "2025-06-20T13:32:12.919297"
       }
     },
     {
@@ -34,13 +34,13 @@
       "enabled": true,
       "metrics": {
         "total_configs": 20,
-        "valid_configs": 11,
-        "unique_configs": 11,
-        "avg_response_time": 0.38,
+        "valid_configs": 10,
+        "unique_configs": 10,
+        "avg_response_time": 0.47,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 88.18,
-        "last_success": "2025-06-20T12:44:48.707213"
+        "overall_score": 86.79,
+        "last_success": "2025-06-20T13:32:13.424419"
       }
     },
     {
@@ -50,11 +50,11 @@
         "total_configs": 12,
         "valid_configs": 12,
         "unique_configs": 12,
-        "avg_response_time": 0.43,
+        "avg_response_time": 0.48,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 99.36,
-        "last_success": "2025-06-20T12:44:49.165440"
+        "overall_score": 99.28,
+        "last_success": "2025-06-20T13:32:13.929157"
       }
     }
   ]
