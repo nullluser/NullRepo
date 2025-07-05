@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-07-04T23:20:03.851999",
+  "timestamp": "2025-07-05T01:46:59.591811",
   "channels": [
     {
       "url": "https://t.me/s/prrofile_purple",
@@ -8,25 +8,25 @@
         "total_configs": 99,
         "valid_configs": 21,
         "unique_configs": 21,
-        "avg_response_time": 0.59,
+        "avg_response_time": 0.65,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 79.41,
-        "last_success": "2025-07-04T23:20:02.570031"
+        "overall_score": 79.32,
+        "last_success": "2025-07-05T01:46:58.134435"
       }
     },
     {
       "url": "https://t.me/s/v2ray_free_conf",
       "enabled": true,
       "metrics": {
-        "total_configs": 20,
-        "valid_configs": 16,
-        "unique_configs": 16,
-        "avg_response_time": 0.37,
+        "total_configs": 27,
+        "valid_configs": 14,
+        "unique_configs": 14,
+        "avg_response_time": 0.43,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 94.44,
-        "last_success": "2025-07-04T23:20:02.994571"
+        "overall_score": 87.32,
+        "last_success": "2025-07-05T01:46:58.647218"
       }
     },
     {
@@ -36,11 +36,11 @@
         "total_configs": 16,
         "valid_configs": 8,
         "unique_configs": 8,
-        "avg_response_time": 0.38,
+        "avg_response_time": 0.45,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 86.94,
-        "last_success": "2025-07-04T23:20:03.409679"
+        "overall_score": 86.82,
+        "last_success": "2025-07-05T01:46:59.137194"
       }
     },
     {
@@ -50,11 +50,11 @@
         "total_configs": 18,
         "valid_configs": 15,
         "unique_configs": 15,
-        "avg_response_time": 0.41,
+        "avg_response_time": 0.43,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 95.22,
-        "last_success": "2025-07-04T23:20:03.850169"
+        "overall_score": 95.19,
+        "last_success": "2025-07-05T01:46:59.590061"
       }
     }
   ]
