@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-07-07T09:26:28.669150",
+  "timestamp": "2025-07-07T10:25:29.983835",
   "channels": [
     {
       "url": "https://t.me/s/prrofile_purple",
@@ -8,11 +8,11 @@
         "total_configs": 104,
         "valid_configs": 20,
         "unique_configs": 20,
-        "avg_response_time": 0.59,
+        "avg_response_time": 0.52,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 78.92,
-        "last_success": "2025-07-07T09:26:16.697731"
+        "overall_score": 79.03,
+        "last_success": "2025-07-07T10:25:28.827077"
       }
     },
     {
@@ -22,25 +22,25 @@
         "total_configs": 25,
         "valid_configs": 14,
         "unique_configs": 14,
-        "avg_response_time": 0.33,
+        "avg_response_time": 0.34,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 88.5,
-        "last_success": "2025-07-07T09:26:17.095417"
+        "overall_score": 88.49,
+        "last_success": "2025-07-07T10:25:29.228392"
       }
     },
     {
       "url": "https://t.me/s/PrivateVPNs",
       "enabled": true,
       "metrics": {
-        "total_configs": 42,
-        "valid_configs": 4,
-        "unique_configs": 4,
-        "avg_response_time": 0,
-        "success_count": 0,
+        "total_configs": 18,
+        "valid_configs": 5,
+        "unique_configs": 5,
+        "avg_response_time": 0.35,
+        "success_count": 1,
         "fail_count": 0,
-        "overall_score": 0.0,
-        "last_success": null
+        "overall_score": 81.43,
+        "last_success": "2025-07-07T10:25:29.609029"
       }
     },
     {
@@ -50,11 +50,11 @@
         "total_configs": 18,
         "valid_configs": 17,
         "unique_configs": 17,
-        "avg_response_time": 0.32,
+        "avg_response_time": 0.34,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 98.13,
-        "last_success": "2025-07-07T09:26:28.667144"
+        "overall_score": 98.09,
+        "last_success": "2025-07-07T10:25:29.982056"
       }
     }
   ]
