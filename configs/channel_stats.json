@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-07-10T04:34:01.497963",
+  "timestamp": "2025-07-10T05:24:53.512647",
   "channels": [
     {
       "url": "https://t.me/s/prrofile_purple",
@@ -8,25 +8,25 @@
         "total_configs": 106,
         "valid_configs": 22,
         "unique_configs": 21,
-        "avg_response_time": 0.53,
+        "avg_response_time": 0.86,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 78.26,
-        "last_success": "2025-07-10T04:34:00.282159"
+        "overall_score": 77.76,
+        "last_success": "2025-07-10T05:24:51.873772"
       }
     },
     {
       "url": "https://t.me/s/v2ray_free_conf",
       "enabled": true,
       "metrics": {
-        "total_configs": 43,
-        "valid_configs": 12,
-        "unique_configs": 12,
-        "avg_response_time": 0.33,
+        "total_configs": 31,
+        "valid_configs": 11,
+        "unique_configs": 11,
+        "avg_response_time": 0.49,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 81.48,
-        "last_success": "2025-07-10T04:34:00.705360"
+        "overall_score": 83.14,
+        "last_success": "2025-07-10T05:24:52.404515"
       }
     },
     {
@@ -36,11 +36,11 @@
         "total_configs": 16,
         "valid_configs": 10,
         "unique_configs": 10,
-        "avg_response_time": 0.38,
+        "avg_response_time": 0.55,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 90.06,
-        "last_success": "2025-07-10T04:34:01.123324"
+        "overall_score": 89.8,
+        "last_success": "2025-07-10T05:24:52.997998"
       }
     },
     {
@@ -50,11 +50,11 @@
         "total_configs": 18,
         "valid_configs": 17,
         "unique_configs": 17,
-        "avg_response_time": 0.34,
+        "avg_response_time": 0.48,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 98.1,
-        "last_success": "2025-07-10T04:34:01.496149"
+        "overall_score": 97.89,
+        "last_success": "2025-07-10T05:24:53.510853"
       }
     }
   ]
