@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-07-10T15:25:54.281912",
+  "timestamp": "2025-07-10T16:28:56.571943",
   "channels": [
     {
       "url": "https://t.me/s/prrofile_purple",
@@ -8,39 +8,39 @@
         "total_configs": 105,
         "valid_configs": 21,
         "unique_configs": 20,
-        "avg_response_time": 0.77,
+        "avg_response_time": 0.78,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 77.66,
-        "last_success": "2025-07-10T15:25:52.540973"
+        "overall_score": 77.63,
+        "last_success": "2025-07-10T16:28:54.878284"
       }
     },
     {
       "url": "https://t.me/s/v2ray_free_conf",
       "enabled": true,
       "metrics": {
-        "total_configs": 23,
+        "total_configs": 20,
         "valid_configs": 12,
         "unique_configs": 12,
         "avg_response_time": 0.52,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 87.26,
-        "last_success": "2025-07-10T15:25:53.130007"
+        "overall_score": 89.22,
+        "last_success": "2025-07-10T16:28:55.441455"
       }
     },
     {
       "url": "https://t.me/s/PrivateVPNs",
       "enabled": true,
       "metrics": {
-        "total_configs": 18,
+        "total_configs": 16,
         "valid_configs": 9,
         "unique_configs": 9,
-        "avg_response_time": 0.53,
+        "avg_response_time": 0.54,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 86.71,
-        "last_success": "2025-07-10T15:25:53.694284"
+        "overall_score": 88.25,
+        "last_success": "2025-07-10T16:28:56.026836"
       }
     },
     {
@@ -50,11 +50,11 @@
         "total_configs": 18,
         "valid_configs": 17,
         "unique_configs": 17,
-        "avg_response_time": 0.55,
+        "avg_response_time": 0.51,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 97.78,
-        "last_success": "2025-07-10T15:25:54.280129"
+        "overall_score": 97.84,
+        "last_success": "2025-07-10T16:28:56.570149"
       }
     }
   ]
