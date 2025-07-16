@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-07-16T06:34:47.733248",
+  "timestamp": "2025-07-16T07:24:11.660346",
   "channels": [
     {
       "url": "https://t.me/s/prrofile_purple",
@@ -8,11 +8,11 @@
         "total_configs": 97,
         "valid_configs": 21,
         "unique_configs": 18,
-        "avg_response_time": 0.78,
+        "avg_response_time": 0.51,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 75.67,
-        "last_success": "2025-07-16T06:34:46.141016"
+        "overall_score": 76.08,
+        "last_success": "2025-07-16T07:24:10.494136"
       }
     },
     {
@@ -20,13 +20,13 @@
       "enabled": true,
       "metrics": {
         "total_configs": 28,
-        "valid_configs": 9,
-        "unique_configs": 9,
-        "avg_response_time": 0.49,
+        "valid_configs": 10,
+        "unique_configs": 10,
+        "avg_response_time": 0.34,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 82.3,
-        "last_success": "2025-07-16T06:34:46.701171"
+        "overall_score": 83.42,
+        "last_success": "2025-07-16T07:24:10.931857"
       }
     },
     {
@@ -34,13 +34,13 @@
       "enabled": true,
       "metrics": {
         "total_configs": 17,
-        "valid_configs": 14,
-        "unique_configs": 14,
-        "avg_response_time": 0.49,
+        "valid_configs": 13,
+        "unique_configs": 13,
+        "avg_response_time": 0.33,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 94.86,
-        "last_success": "2025-07-16T06:34:47.223879"
+        "overall_score": 93.62,
+        "last_success": "2025-07-16T07:24:11.301161"
       }
     },
     {
@@ -50,11 +50,11 @@
         "total_configs": 17,
         "valid_configs": 16,
         "unique_configs": 16,
-        "avg_response_time": 0.48,
+        "avg_response_time": 0.33,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 97.81,
-        "last_success": "2025-07-16T06:34:47.731964"
+        "overall_score": 98.04,
+        "last_success": "2025-07-16T07:24:11.658505"
       }
     }
   ]
