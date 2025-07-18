@@ -1,18 +1,18 @@
 {
-  "timestamp": "2025-07-18T15:24:25.811314",
+  "timestamp": "2025-07-18T16:29:49.682362",
   "channels": [
     {
       "url": "https://t.me/s/prrofile_purple",
       "enabled": true,
       "metrics": {
-        "total_configs": 79,
+        "total_configs": 76,
         "valid_configs": 16,
         "unique_configs": 16,
-        "avg_response_time": 0.6,
+        "avg_response_time": 0.66,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 79.17,
-        "last_success": "2025-07-18T15:24:24.473783"
+        "overall_score": 79.27,
+        "last_success": "2025-07-18T16:29:48.307564"
       }
     },
     {
@@ -22,25 +22,25 @@
         "total_configs": 20,
         "valid_configs": 11,
         "unique_configs": 11,
-        "avg_response_time": 0.39,
+        "avg_response_time": 0.4,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 88.16,
-        "last_success": "2025-07-18T15:24:24.973179"
+        "overall_score": 88.15,
+        "last_success": "2025-07-18T16:29:48.785698"
       }
     },
     {
       "url": "https://t.me/s/PrivateVPNs",
       "enabled": true,
       "metrics": {
-        "total_configs": 18,
+        "total_configs": 16,
         "valid_configs": 13,
         "unique_configs": 13,
-        "avg_response_time": 0.37,
+        "avg_response_time": 0.44,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 92.5,
-        "last_success": "2025-07-18T15:24:25.380249"
+        "overall_score": 94.65,
+        "last_success": "2025-07-18T16:29:49.266898"
       }
     },
     {
@@ -50,11 +50,11 @@
         "total_configs": 17,
         "valid_configs": 15,
         "unique_configs": 15,
-        "avg_response_time": 0.4,
+        "avg_response_time": 0.38,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 96.46,
-        "last_success": "2025-07-18T15:24:25.809426"
+        "overall_score": 96.48,
+        "last_success": "2025-07-18T16:29:49.680399"
       }
     }
   ]
