@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-07-21T17:22:31.868042",
+  "timestamp": "2025-07-21T18:34:24.814064",
   "channels": [
     {
       "url": "https://t.me/s/prrofile_purple",
@@ -8,11 +8,11 @@
         "total_configs": 53,
         "valid_configs": 17,
         "unique_configs": 17,
-        "avg_response_time": 0.77,
+        "avg_response_time": 0.5,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 81.86,
-        "last_success": "2025-07-21T17:22:30.199024"
+        "overall_score": 82.26,
+        "last_success": "2025-07-21T18:34:23.659317"
       }
     },
     {
@@ -20,13 +20,13 @@
       "enabled": true,
       "metrics": {
         "total_configs": 21,
-        "valid_configs": 13,
-        "unique_configs": 13,
-        "avg_response_time": 0.48,
+        "valid_configs": 12,
+        "unique_configs": 12,
+        "avg_response_time": 0.34,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 89.76,
-        "last_success": "2025-07-21T17:22:30.744135"
+        "overall_score": 88.78,
+        "last_success": "2025-07-21T18:34:24.044860"
       }
     },
     {
@@ -34,13 +34,13 @@
       "enabled": true,
       "metrics": {
         "total_configs": 16,
-        "valid_configs": 11,
+        "valid_configs": 12,
         "unique_configs": 11,
-        "avg_response_time": 0.57,
+        "avg_response_time": 0.37,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 91.33,
-        "last_success": "2025-07-21T17:22:31.354157"
+        "overall_score": 91.11,
+        "last_success": "2025-07-21T18:34:24.455662"
       }
     },
     {
@@ -50,11 +50,11 @@
         "total_configs": 19,
         "valid_configs": 15,
         "unique_configs": 15,
-        "avg_response_time": 0.48,
+        "avg_response_time": 0.33,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 94.01,
-        "last_success": "2025-07-21T17:22:31.866296"
+        "overall_score": 94.24,
+        "last_success": "2025-07-21T18:34:24.812380"
       }
     }
   ]
