@@ -1,18 +1,18 @@
 {
-  "timestamp": "2025-08-14T19:17:58.178462",
+  "timestamp": "2025-08-14T20:25:09.909235",
   "channels": [
     {
       "url": "https://t.me/s/prrofile_purple",
       "enabled": true,
       "metrics": {
         "total_configs": 56,
-        "valid_configs": 17,
-        "unique_configs": 17,
-        "avg_response_time": 0.54,
+        "valid_configs": 18,
+        "unique_configs": 18,
+        "avg_response_time": 0.57,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 81.78,
-        "last_success": "2025-08-14T19:17:56.954285"
+        "overall_score": 82.18,
+        "last_success": "2025-08-14T20:25:08.716060"
       }
     },
     {
@@ -20,27 +20,27 @@
       "enabled": true,
       "metrics": {
         "total_configs": 20,
-        "valid_configs": 14,
-        "unique_configs": 14,
-        "avg_response_time": 0.33,
+        "valid_configs": 12,
+        "unique_configs": 12,
+        "avg_response_time": 0.34,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 92.0,
-        "last_success": "2025-08-14T19:17:57.397229"
+        "overall_score": 89.48,
+        "last_success": "2025-08-14T20:25:09.122300"
       }
     },
     {
       "url": "https://t.me/s/PrivateVPNs",
       "enabled": true,
       "metrics": {
-        "total_configs": 15,
-        "valid_configs": 11,
-        "unique_configs": 11,
-        "avg_response_time": 0.37,
+        "total_configs": 13,
+        "valid_configs": 13,
+        "unique_configs": 13,
+        "avg_response_time": 0.38,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 92.78,
-        "last_success": "2025-08-14T19:17:57.812297"
+        "overall_score": 99.43,
+        "last_success": "2025-08-14T20:25:09.544754"
       }
     },
     {
@@ -54,7 +54,7 @@
         "success_count": 1,
         "fail_count": 0,
         "overall_score": 94.23,
-        "last_success": "2025-08-14T19:17:58.176737"
+        "last_success": "2025-08-14T20:25:09.907624"
       }
     }
   ]
