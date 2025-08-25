@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-08-25T22:20:02.645896",
+  "timestamp": "2025-08-25T23:19:40.161525",
   "channels": [
     {
       "url": "https://t.me/s/prrofile_purple",
@@ -8,11 +8,11 @@
         "total_configs": 40,
         "valid_configs": 20,
         "unique_configs": 17,
-        "avg_response_time": 0.67,
+        "avg_response_time": 0.66,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 82.74,
-        "last_success": "2025-08-25T22:20:01.261124"
+        "overall_score": 82.76,
+        "last_success": "2025-08-25T23:19:38.776414"
       }
     },
     {
@@ -21,12 +21,12 @@
       "metrics": {
         "total_configs": 28,
         "valid_configs": 11,
-        "unique_configs": 11,
-        "avg_response_time": 0.42,
+        "unique_configs": 10,
+        "avg_response_time": 0.43,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 84.19,
-        "last_success": "2025-08-25T22:20:01.726759"
+        "overall_score": 81.9,
+        "last_success": "2025-08-25T23:19:39.267768"
       }
     },
     {
@@ -34,13 +34,13 @@
       "enabled": true,
       "metrics": {
         "total_configs": 16,
-        "valid_configs": 10,
-        "unique_configs": 10,
-        "avg_response_time": 0.42,
+        "valid_configs": 11,
+        "unique_configs": 11,
+        "avg_response_time": 0.41,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 89.99,
-        "last_success": "2025-08-25T22:20:02.192744"
+        "overall_score": 91.57,
+        "last_success": "2025-08-25T23:19:39.720226"
       }
     },
     {
@@ -50,11 +50,11 @@
         "total_configs": 17,
         "valid_configs": 15,
         "unique_configs": 15,
-        "avg_response_time": 0.42,
+        "avg_response_time": 0.41,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 96.43,
-        "last_success": "2025-08-25T22:20:02.644032"
+        "overall_score": 96.44,
+        "last_success": "2025-08-25T23:19:40.159703"
       }
     }
   ]
