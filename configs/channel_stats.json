@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-08-26T16:26:10.960483",
+  "timestamp": "2025-08-26T17:18:35.452917",
   "channels": [
     {
       "url": "https://t.me/s/prrofile_purple",
@@ -8,11 +8,11 @@
         "total_configs": 40,
         "valid_configs": 20,
         "unique_configs": 17,
-        "avg_response_time": 0.65,
+        "avg_response_time": 0.82,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 82.77,
-        "last_success": "2025-08-26T16:26:09.732049"
+        "overall_score": 82.52,
+        "last_success": "2025-08-26T17:18:33.696073"
       }
     },
     {
@@ -21,12 +21,12 @@
       "metrics": {
         "total_configs": 20,
         "valid_configs": 12,
-        "unique_configs": 11,
-        "avg_response_time": 0.39,
+        "unique_configs": 12,
+        "avg_response_time": 0.52,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 87.33,
-        "last_success": "2025-08-26T16:26:10.198457"
+        "overall_score": 89.22,
+        "last_success": "2025-08-26T17:18:34.269556"
       }
     },
     {
@@ -34,13 +34,13 @@
       "enabled": true,
       "metrics": {
         "total_configs": 16,
-        "valid_configs": 14,
-        "unique_configs": 14,
-        "avg_response_time": 0.34,
+        "valid_configs": 12,
+        "unique_configs": 12,
+        "avg_response_time": 0.59,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 96.37,
-        "last_success": "2025-08-26T16:26:10.575142"
+        "overall_score": 92.86,
+        "last_success": "2025-08-26T17:18:34.898424"
       }
     },
     {
@@ -50,11 +50,11 @@
         "total_configs": 17,
         "valid_configs": 15,
         "unique_configs": 15,
-        "avg_response_time": 0.35,
+        "avg_response_time": 0.52,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 96.53,
-        "last_success": "2025-08-26T16:26:10.958626"
+        "overall_score": 96.27,
+        "last_success": "2025-08-26T17:18:35.451108"
       }
     }
   ]
