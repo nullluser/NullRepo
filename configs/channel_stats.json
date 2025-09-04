@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-09-04T10:20:36.897317",
+  "timestamp": "2025-09-04T11:16:31.144320",
   "channels": [
     {
       "url": "https://t.me/s/prrofile_purple",
@@ -8,11 +8,11 @@
         "total_configs": 56,
         "valid_configs": 18,
         "unique_configs": 18,
-        "avg_response_time": 0.57,
+        "avg_response_time": 0.66,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 82.18,
-        "last_success": "2025-09-04T10:20:35.782596"
+        "overall_score": 82.04,
+        "last_success": "2025-09-04T11:16:29.798777"
       }
     },
     {
@@ -22,25 +22,25 @@
         "total_configs": 28,
         "valid_configs": 10,
         "unique_configs": 10,
-        "avg_response_time": 0.34,
+        "avg_response_time": 0.42,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 83.43,
-        "last_success": "2025-09-04T10:20:36.158843"
+        "overall_score": 83.3,
+        "last_success": "2025-09-04T11:16:30.257859"
       }
     },
     {
       "url": "https://t.me/s/PrivateVPNs",
       "enabled": true,
       "metrics": {
-        "total_configs": 15,
-        "valid_configs": 11,
+        "total_configs": 18,
+        "valid_configs": 10,
         "unique_configs": 10,
-        "avg_response_time": 0.33,
+        "avg_response_time": 0.42,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 90.56,
-        "last_success": "2025-09-04T10:20:36.530142"
+        "overall_score": 88.26,
+        "last_success": "2025-09-04T11:16:30.711149"
       }
     },
     {
@@ -50,11 +50,11 @@
         "total_configs": 19,
         "valid_configs": 15,
         "unique_configs": 15,
-        "avg_response_time": 0.34,
+        "avg_response_time": 0.41,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 94.23,
-        "last_success": "2025-09-04T10:20:36.895640"
+        "overall_score": 94.13,
+        "last_success": "2025-09-04T11:16:31.142465"
       }
     }
   ]
