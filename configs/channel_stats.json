@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-09-19T10:22:29.030945",
+  "timestamp": "2025-09-19T11:16:58.060970",
   "channels": [
     {
       "url": "https://t.me/s/prrofile_purple",
@@ -8,11 +8,11 @@
         "total_configs": 24,
         "valid_configs": 14,
         "unique_configs": 13,
-        "avg_response_time": 0.6,
+        "avg_response_time": 0.64,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 86.9,
-        "last_success": "2025-09-19T10:22:27.781083"
+        "overall_score": 86.83,
+        "last_success": "2025-09-19T11:16:56.749183"
       }
     },
     {
@@ -22,25 +22,25 @@
         "total_configs": 20,
         "valid_configs": 10,
         "unique_configs": 10,
-        "avg_response_time": 0.38,
+        "avg_response_time": 0.4,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 86.93,
-        "last_success": "2025-09-19T10:22:28.211569"
+        "overall_score": 86.9,
+        "last_success": "2025-09-19T11:16:57.199326"
       }
     },
     {
       "url": "https://t.me/s/PrivateVPNs",
       "enabled": true,
       "metrics": {
-        "total_configs": 14,
-        "valid_configs": 14,
-        "unique_configs": 14,
-        "avg_response_time": 0.37,
+        "total_configs": 18,
+        "valid_configs": 15,
+        "unique_configs": 15,
+        "avg_response_time": 0.39,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 99.44,
-        "last_success": "2025-09-19T10:22:28.619731"
+        "overall_score": 95.25,
+        "last_success": "2025-09-19T11:16:57.622160"
       }
     },
     {
@@ -50,11 +50,11 @@
         "total_configs": 17,
         "valid_configs": 15,
         "unique_configs": 15,
-        "avg_response_time": 0.38,
+        "avg_response_time": 0.41,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 96.48,
-        "last_success": "2025-09-19T10:22:29.029204"
+        "overall_score": 96.44,
+        "last_success": "2025-09-19T11:16:58.059163"
       }
     }
   ]
