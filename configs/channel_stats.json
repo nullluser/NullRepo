@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-02T20:22:09.865138",
+  "timestamp": "2025-10-02T21:17:37.243220",
   "channels": [
     {
       "url": "https://t.me/s/prrofile_purple",
@@ -8,11 +8,11 @@
         "total_configs": 23,
         "valid_configs": 14,
         "unique_configs": 14,
-        "avg_response_time": 0.61,
+        "avg_response_time": 0.93,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 89.31,
-        "last_success": "2025-10-02T20:22:08.494667"
+        "overall_score": 88.82,
+        "last_success": "2025-10-02T21:17:35.460220"
       }
     },
     {
@@ -22,25 +22,25 @@
         "total_configs": 20,
         "valid_configs": 9,
         "unique_configs": 9,
-        "avg_response_time": 0.41,
+        "avg_response_time": 0.53,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 85.64,
-        "last_success": "2025-10-02T20:22:09.021003"
+        "overall_score": 85.46,
+        "last_success": "2025-10-02T21:17:36.050545"
       }
     },
     {
       "url": "https://t.me/s/PrivateVPNs",
       "enabled": true,
       "metrics": {
-        "total_configs": 14,
-        "valid_configs": 14,
-        "unique_configs": 14,
-        "avg_response_time": 0.39,
+        "total_configs": 16,
+        "valid_configs": 15,
+        "unique_configs": 15,
+        "avg_response_time": 0.53,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 99.42,
-        "last_success": "2025-10-02T20:22:09.446739"
+        "overall_score": 97.64,
+        "last_success": "2025-10-02T21:17:36.619185"
       }
     },
     {
@@ -50,11 +50,11 @@
         "total_configs": 11,
         "valid_configs": 11,
         "unique_configs": 11,
-        "avg_response_time": 0.39,
+        "avg_response_time": 0.6,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 99.41,
-        "last_success": "2025-10-02T20:22:09.863260"
+        "overall_score": 99.1,
+        "last_success": "2025-10-02T21:17:37.241423"
       }
     }
   ]
