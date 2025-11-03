@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-11-03T11:18:00.637331",
+  "timestamp": "2025-11-03T12:47:03.401866",
   "channels": [
     {
       "url": "https://t.me/s/prrofile_purple",
@@ -8,11 +8,11 @@
         "total_configs": 32,
         "valid_configs": 18,
         "unique_configs": 18,
-        "avg_response_time": 0.63,
+        "avg_response_time": 0.73,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 88.11,
-        "last_success": "2025-11-03T11:17:59.334812"
+        "overall_score": 87.97,
+        "last_success": "2025-11-03T12:47:01.770577"
       }
     },
     {
@@ -22,25 +22,25 @@
         "total_configs": 20,
         "valid_configs": 7,
         "unique_configs": 7,
-        "avg_response_time": 0.39,
+        "avg_response_time": 0.5,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 83.17,
-        "last_success": "2025-11-03T11:17:59.802326"
+        "overall_score": 83.0,
+        "last_success": "2025-11-03T12:47:02.328264"
       }
     },
     {
       "url": "https://t.me/s/PrivateVPNs",
       "enabled": true,
       "metrics": {
-        "total_configs": 14,
-        "valid_configs": 14,
-        "unique_configs": 14,
-        "avg_response_time": 0.38,
+        "total_configs": 18,
+        "valid_configs": 15,
+        "unique_configs": 15,
+        "avg_response_time": 0.51,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 99.43,
-        "last_success": "2025-11-03T11:18:00.226915"
+        "overall_score": 95.07,
+        "last_success": "2025-11-03T12:47:02.873674"
       }
     },
     {
@@ -50,11 +50,11 @@
         "total_configs": 18,
         "valid_configs": 15,
         "unique_configs": 15,
-        "avg_response_time": 0.38,
+        "avg_response_time": 0.5,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 95.26,
-        "last_success": "2025-11-03T11:18:00.635688"
+        "overall_score": 95.08,
+        "last_success": "2025-11-03T12:47:03.400070"
       }
     }
   ]
