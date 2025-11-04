@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-11-04T11:19:38.846603",
+  "timestamp": "2025-11-04T12:49:30.853631",
   "channels": [
     {
       "url": "https://t.me/s/prrofile_purple",
@@ -8,11 +8,11 @@
         "total_configs": 32,
         "valid_configs": 17,
         "unique_configs": 17,
-        "avg_response_time": 0.52,
+        "avg_response_time": 0.87,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 87.5,
-        "last_success": "2025-11-04T11:19:37.564304"
+        "overall_score": 86.97,
+        "last_success": "2025-11-04T12:49:28.825371"
       }
     },
     {
@@ -22,25 +22,25 @@
         "total_configs": 20,
         "valid_configs": 8,
         "unique_configs": 8,
-        "avg_response_time": 0.38,
+        "avg_response_time": 0.63,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 84.43,
-        "last_success": "2025-11-04T11:19:38.015941"
+        "overall_score": 84.06,
+        "last_success": "2025-11-04T12:49:29.520172"
       }
     },
     {
       "url": "https://t.me/s/PrivateVPNs",
       "enabled": true,
       "metrics": {
-        "total_configs": 14,
-        "valid_configs": 14,
-        "unique_configs": 14,
-        "avg_response_time": 0.38,
+        "total_configs": 18,
+        "valid_configs": 15,
+        "unique_configs": 15,
+        "avg_response_time": 0.65,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 99.43,
-        "last_success": "2025-11-04T11:19:38.439938"
+        "overall_score": 94.86,
+        "last_success": "2025-11-04T12:49:30.207631"
       }
     },
     {
@@ -50,11 +50,11 @@
         "total_configs": 14,
         "valid_configs": 14,
         "unique_configs": 14,
-        "avg_response_time": 0.38,
+        "avg_response_time": 0.62,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 99.43,
-        "last_success": "2025-11-04T11:19:38.844797"
+        "overall_score": 99.07,
+        "last_success": "2025-11-04T12:49:30.851895"
       }
     }
   ]
