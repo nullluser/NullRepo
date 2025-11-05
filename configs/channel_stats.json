@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-11-05T09:25:25.677829",
+  "timestamp": "2025-11-05T10:25:10.017710",
   "channels": [
     {
       "url": "https://t.me/s/prrofile_purple",
@@ -8,11 +8,11 @@
         "total_configs": 32,
         "valid_configs": 18,
         "unique_configs": 18,
-        "avg_response_time": 1.01,
+        "avg_response_time": 0.63,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 87.54,
-        "last_success": "2025-11-05T09:25:12.317052"
+        "overall_score": 88.11,
+        "last_success": "2025-11-05T10:24:57.934605"
       }
     },
     {
@@ -20,8 +20,8 @@
       "enabled": true,
       "metrics": {
         "total_configs": 57,
-        "valid_configs": 9,
-        "unique_configs": 3,
+        "valid_configs": 12,
+        "unique_configs": 4,
         "avg_response_time": 0,
         "success_count": 0,
         "fail_count": 0,
@@ -36,25 +36,25 @@
         "total_configs": 14,
         "valid_configs": 14,
         "unique_configs": 14,
-        "avg_response_time": 0.62,
+        "avg_response_time": 0.39,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 99.07,
-        "last_success": "2025-11-05T09:25:25.002636"
+        "overall_score": 99.42,
+        "last_success": "2025-11-05T10:25:09.628362"
       }
     },
     {
       "url": "https://t.me/s/freewireguard",
       "enabled": true,
       "metrics": {
-        "total_configs": 14,
-        "valid_configs": 14,
-        "unique_configs": 14,
-        "avg_response_time": 0.65,
+        "total_configs": 11,
+        "valid_configs": 11,
+        "unique_configs": 11,
+        "avg_response_time": 0.37,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 99.03,
-        "last_success": "2025-11-05T09:25:25.676070"
+        "overall_score": 99.45,
+        "last_success": "2025-11-05T10:25:10.015947"
       }
     }
   ]
