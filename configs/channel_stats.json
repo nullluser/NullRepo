@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-11-17T05:23:07.062279",
+  "timestamp": "2025-11-17T06:34:28.509782",
   "channels": [
     {
       "url": "https://t.me/s/prrofile_purple",
@@ -8,11 +8,11 @@
         "total_configs": 23,
         "valid_configs": 16,
         "unique_configs": 16,
-        "avg_response_time": 0.82,
+        "avg_response_time": 0.68,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 91.16,
-        "last_success": "2025-11-17T05:23:05.012102"
+        "overall_score": 91.37,
+        "last_success": "2025-11-17T06:34:27.080922"
       }
     },
     {
@@ -20,13 +20,13 @@
       "enabled": true,
       "metrics": {
         "total_configs": 21,
-        "valid_configs": 9,
-        "unique_configs": 9,
-        "avg_response_time": 0.62,
+        "valid_configs": 8,
+        "unique_configs": 8,
+        "avg_response_time": 0.43,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 84.79,
-        "last_success": "2025-11-17T05:23:05.742865"
+        "overall_score": 83.88,
+        "last_success": "2025-11-17T06:34:27.575472"
       }
     },
     {
@@ -34,13 +34,13 @@
       "enabled": true,
       "metrics": {
         "total_configs": 16,
-        "valid_configs": 16,
+        "valid_configs": 15,
         "unique_configs": 15,
-        "avg_response_time": 0.62,
+        "avg_response_time": 0.42,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 97.51,
-        "last_success": "2025-11-17T05:23:06.401924"
+        "overall_score": 97.8,
+        "last_success": "2025-11-17T06:34:28.037913"
       }
     },
     {
@@ -50,11 +50,11 @@
         "total_configs": 17,
         "valid_configs": 15,
         "unique_configs": 15,
-        "avg_response_time": 0.63,
+        "avg_response_time": 0.44,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 96.11,
-        "last_success": "2025-11-17T05:23:07.060050"
+        "overall_score": 96.39,
+        "last_success": "2025-11-17T06:34:28.508058"
       }
     }
   ]
