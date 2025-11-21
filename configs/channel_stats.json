@@ -1,26 +1,26 @@
 {
-  "timestamp": "2025-11-21T19:18:25.945792",
+  "timestamp": "2025-11-21T20:25:05.443646",
   "channels": [
     {
       "url": "https://t.me/s/prrofile_purple",
       "enabled": true,
       "metrics": {
-        "total_configs": 31,
-        "valid_configs": 17,
-        "unique_configs": 17,
-        "avg_response_time": 0.74,
+        "total_configs": 39,
+        "valid_configs": 18,
+        "unique_configs": 18,
+        "avg_response_time": 0.68,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 87.61,
-        "last_success": "2025-11-21T19:18:13.583485"
+        "overall_score": 85.51,
+        "last_success": "2025-11-21T20:24:53.351480"
       }
     },
     {
       "url": "https://t.me/s/v2ray_free_conf",
       "enabled": true,
       "metrics": {
-        "total_configs": 69,
-        "valid_configs": 15,
+        "total_configs": 60,
+        "valid_configs": 12,
         "unique_configs": 4,
         "avg_response_time": 0,
         "success_count": 0,
@@ -33,14 +33,14 @@
       "url": "https://t.me/s/PrivateVPNs",
       "enabled": true,
       "metrics": {
-        "total_configs": 16,
-        "valid_configs": 15,
-        "unique_configs": 15,
-        "avg_response_time": 0.45,
+        "total_configs": 14,
+        "valid_configs": 14,
+        "unique_configs": 14,
+        "avg_response_time": 0.39,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 97.77,
-        "last_success": "2025-11-21T19:18:25.516292"
+        "overall_score": 99.42,
+        "last_success": "2025-11-21T20:25:05.064018"
       }
     },
     {
@@ -50,11 +50,11 @@
         "total_configs": 20,
         "valid_configs": 15,
         "unique_configs": 15,
-        "avg_response_time": 0.4,
+        "avg_response_time": 0.35,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 93.14,
-        "last_success": "2025-11-21T19:18:25.944246"
+        "overall_score": 93.22,
+        "last_success": "2025-11-21T20:25:05.441910"
       }
     }
   ]
