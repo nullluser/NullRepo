@@ -1,6 +1,6 @@
 # 🌟 Proxy Channel Performance Dashboard 🌟
 
-_Last Updated: 2025-11-21T16:27:44.719361_
+_Last Updated: 2025-11-21T17:19:30.844293_
 
 ---
 
@@ -19,7 +19,7 @@ _Last Updated: 2025-11-21T16:27:44.719361_
 | **Active Channels**   | 4 / 4       |
 | **Total Valid Configs** | 59          |
 | **Average Success Rate** | 75.0%      |
-| **Average Response Time** | 0.34s       |
+| **Average Response Time** | 0.44s       |
 
 ---
 
@@ -27,9 +27,9 @@ _Last Updated: 2025-11-21T16:27:44.719361_
 
 | Channel          | Status     | Score  | Success Rate | Response Time | Valid/Total | Last Success               |
 |------------------|------------|--------|--------------|---------------|-------------|----------------------------|
-| **PrivateVPNs**  | ✅ Active  | 97.9%  | 100.0% | 0.38s         | 15/16       | 2025-11-21T16:27:44.338465 |
-| **freewireguard**  | ✅ Active  | 93.2%  | 100.0% | 0.35s         | 15/20       | 2025-11-21T16:27:44.717577 |
-| **prrofile_purple**  | ✅ Active  | 87.7%  | 100.0% | 0.64s         | 17/31       | 2025-11-21T16:27:32.598404 |
+| **PrivateVPNs**  | ✅ Active  | 97.7%  | 100.0% | 0.49s         | 15/16       | 2025-11-21T17:19:30.375385 |
+| **freewireguard**  | ✅ Active  | 93.1%  | 100.0% | 0.44s         | 15/20       | 2025-11-21T17:19:30.842615 |
+| **prrofile_purple**  | ✅ Active  | 87.5%  | 100.0% | 0.82s         | 17/31       | 2025-11-21T17:19:18.200554 |
 | **v2ray_free_conf**  | ✅ Active  | 0.0%  | 0.0% | 0.00s         | 12/69       | None |
 
 ---
