@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-11-28T21:19:05.087461",
+  "timestamp": "2025-11-28T22:19:46.037365",
   "channels": [
     {
       "url": "https://t.me/s/prrofile_purple",
@@ -8,11 +8,11 @@
         "total_configs": 32,
         "valid_configs": 16,
         "unique_configs": 15,
-        "avg_response_time": 0.66,
+        "avg_response_time": 0.63,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 84.95,
-        "last_success": "2025-11-28T21:19:03.565785"
+        "overall_score": 85.0,
+        "last_success": "2025-11-28T22:19:44.688908"
       }
     },
     {
@@ -22,25 +22,25 @@
         "total_configs": 20,
         "valid_configs": 5,
         "unique_configs": 5,
-        "avg_response_time": 0.43,
+        "avg_response_time": 0.35,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 80.6,
-        "last_success": "2025-11-28T21:19:04.054700"
+        "overall_score": 80.72,
+        "last_success": "2025-11-28T22:19:45.123627"
       }
     },
     {
       "url": "https://t.me/s/PrivateVPNs",
       "enabled": true,
       "metrics": {
-        "total_configs": 14,
-        "valid_configs": 14,
-        "unique_configs": 14,
-        "avg_response_time": 0.48,
+        "total_configs": 16,
+        "valid_configs": 15,
+        "unique_configs": 15,
+        "avg_response_time": 0.46,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 99.28,
-        "last_success": "2025-11-28T21:19:04.582159"
+        "overall_score": 97.75,
+        "last_success": "2025-11-28T22:19:45.626034"
       }
     },
     {
@@ -50,11 +50,11 @@
         "total_configs": 18,
         "valid_configs": 15,
         "unique_configs": 15,
-        "avg_response_time": 0.48,
+        "avg_response_time": 0.38,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 95.12,
-        "last_success": "2025-11-28T21:19:05.085653"
+        "overall_score": 95.26,
+        "last_success": "2025-11-28T22:19:46.035581"
       }
     }
   ]
