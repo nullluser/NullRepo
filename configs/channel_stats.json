@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-09T23:21:59.393455",
+  "timestamp": "2025-12-10T01:52:32.520967",
   "channels": [
     {
       "url": "https://t.me/s/prrofile_purple",
@@ -8,25 +8,25 @@
         "total_configs": 40,
         "valid_configs": 20,
         "unique_configs": 18,
-        "avg_response_time": 0.85,
+        "avg_response_time": 1.01,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 83.72,
-        "last_success": "2025-12-09T23:21:57.362116"
+        "overall_score": 83.49,
+        "last_success": "2025-12-10T01:52:30.720850"
       }
     },
     {
       "url": "https://t.me/s/v2ray_free_conf",
       "enabled": true,
       "metrics": {
-        "total_configs": 20,
-        "valid_configs": 5,
-        "unique_configs": 5,
-        "avg_response_time": 0.62,
+        "total_configs": 33,
+        "valid_configs": 15,
+        "unique_configs": 15,
+        "avg_response_time": 0.56,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 80.31,
-        "last_success": "2025-12-09T23:21:58.040174"
+        "overall_score": 85.53,
+        "last_success": "2025-12-10T01:52:31.339623"
       }
     },
     {
@@ -36,11 +36,11 @@
         "total_configs": 14,
         "valid_configs": 14,
         "unique_configs": 14,
-        "avg_response_time": 0.63,
+        "avg_response_time": 0.55,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 99.05,
-        "last_success": "2025-12-09T23:21:58.711613"
+        "overall_score": 99.17,
+        "last_success": "2025-12-10T01:52:31.926744"
       }
     },
     {
@@ -50,11 +50,11 @@
         "total_configs": 19,
         "valid_configs": 15,
         "unique_configs": 15,
-        "avg_response_time": 0.65,
+        "avg_response_time": 0.57,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 93.76,
-        "last_success": "2025-12-09T23:21:59.390927"
+        "overall_score": 93.88,
+        "last_success": "2025-12-10T01:52:32.519509"
       }
     }
   ]
