@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-23T15:25:40.277623",
+  "timestamp": "2025-12-23T16:31:01.738538",
   "channels": [
     {
       "url": "https://t.me/s/prrofile_purple",
@@ -8,11 +8,11 @@
         "total_configs": 24,
         "valid_configs": 17,
         "unique_configs": 17,
-        "avg_response_time": 0.6,
+        "avg_response_time": 1.02,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 91.81,
-        "last_success": "2025-12-23T15:25:38.943746"
+        "overall_score": 91.18,
+        "last_success": "2025-12-23T16:30:59.689207"
       }
     },
     {
@@ -22,25 +22,25 @@
         "total_configs": 20,
         "valid_configs": 8,
         "unique_configs": 8,
-        "avg_response_time": 0.38,
+        "avg_response_time": 0.62,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 84.42,
-        "last_success": "2025-12-23T15:25:39.384912"
+        "overall_score": 84.07,
+        "last_success": "2025-12-23T16:31:00.380002"
       }
     },
     {
       "url": "https://t.me/s/PrivateVPNs",
       "enabled": true,
       "metrics": {
-        "total_configs": 14,
-        "valid_configs": 14,
-        "unique_configs": 14,
-        "avg_response_time": 0.46,
+        "total_configs": 12,
+        "valid_configs": 12,
+        "unique_configs": 12,
+        "avg_response_time": 0.65,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 99.31,
-        "last_success": "2025-12-23T15:25:39.877876"
+        "overall_score": 99.03,
+        "last_success": "2025-12-23T16:31:01.061463"
       }
     },
     {
@@ -50,11 +50,11 @@
         "total_configs": 16,
         "valid_configs": 15,
         "unique_configs": 15,
-        "avg_response_time": 0.37,
+        "avg_response_time": 0.65,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 97.88,
-        "last_success": "2025-12-23T15:25:40.275840"
+        "overall_score": 97.47,
+        "last_success": "2025-12-23T16:31:01.736799"
       }
     }
   ]
