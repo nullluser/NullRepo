@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-31T12:49:36.386611",
+  "timestamp": "2025-12-31T13:34:02.725252",
   "channels": [
     {
       "url": "https://t.me/s/prrofile_purple",
@@ -8,25 +8,25 @@
         "total_configs": 32,
         "valid_configs": 18,
         "unique_configs": 18,
-        "avg_response_time": 1.04,
+        "avg_response_time": 0.87,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 87.5,
-        "last_success": "2025-12-31T12:49:23.113302"
+        "overall_score": 87.76,
+        "last_success": "2025-12-31T13:34:00.564795"
       }
     },
     {
       "url": "https://t.me/s/v2ray_free_conf",
       "enabled": true,
       "metrics": {
-        "total_configs": 60,
-        "valid_configs": 12,
-        "unique_configs": 4,
-        "avg_response_time": 0,
-        "success_count": 0,
+        "total_configs": 20,
+        "valid_configs": 7,
+        "unique_configs": 7,
+        "avg_response_time": 0.66,
+        "success_count": 1,
         "fail_count": 0,
-        "overall_score": 0.0,
-        "last_success": null
+        "overall_score": 82.77,
+        "last_success": "2025-12-31T13:34:01.307128"
       }
     },
     {
@@ -36,11 +36,11 @@
         "total_configs": 18,
         "valid_configs": 14,
         "unique_configs": 14,
-        "avg_response_time": 0.62,
+        "avg_response_time": 0.65,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 93.51,
-        "last_success": "2025-12-31T12:49:35.567514"
+        "overall_score": 93.47,
+        "last_success": "2025-12-31T13:34:01.991548"
       }
     },
     {
@@ -50,11 +50,11 @@
         "total_configs": 9,
         "valid_configs": 9,
         "unique_configs": 9,
-        "avg_response_time": 0.79,
+        "avg_response_time": 0.7,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 98.82,
-        "last_success": "2025-12-31T12:49:36.385262"
+        "overall_score": 98.95,
+        "last_success": "2025-12-31T13:34:02.723581"
       }
     }
   ]
