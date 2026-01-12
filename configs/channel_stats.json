@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-12T18:36:46.451449",
+  "timestamp": "2026-01-12T19:22:07.685512",
   "channels": [
     {
       "url": "https://t.me/s/prrofile_purple",
@@ -8,25 +8,25 @@
         "total_configs": 40,
         "valid_configs": 16,
         "unique_configs": 16,
-        "avg_response_time": 0.93,
+        "avg_response_time": 0.86,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 83.61,
-        "last_success": "2026-01-12T18:36:44.538999"
+        "overall_score": 83.71,
+        "last_success": "2026-01-12T19:22:05.684775"
       }
     },
     {
       "url": "https://t.me/s/v2ray_free_conf",
       "enabled": true,
       "metrics": {
-        "total_configs": 22,
-        "valid_configs": 8,
-        "unique_configs": 8,
-        "avg_response_time": 0.55,
+        "total_configs": 20,
+        "valid_configs": 6,
+        "unique_configs": 6,
+        "avg_response_time": 0.69,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 83.27,
-        "last_success": "2026-01-12T18:36:45.423789"
+        "overall_score": 81.46,
+        "last_success": "2026-01-12T19:22:06.429995"
       }
     },
     {
@@ -36,11 +36,11 @@
         "total_configs": 20,
         "valid_configs": 15,
         "unique_configs": 15,
-        "avg_response_time": 0.46,
+        "avg_response_time": 0.55,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 93.07,
-        "last_success": "2026-01-12T18:36:45.910309"
+        "overall_score": 92.93,
+        "last_success": "2026-01-12T19:22:07.005618"
       }
     },
     {
@@ -50,11 +50,11 @@
         "total_configs": 17,
         "valid_configs": 15,
         "unique_configs": 15,
-        "avg_response_time": 0.51,
+        "avg_response_time": 0.65,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 96.29,
-        "last_success": "2026-01-12T18:36:46.449776"
+        "overall_score": 96.08,
+        "last_success": "2026-01-12T19:22:07.683962"
       }
     }
   ]
