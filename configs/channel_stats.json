@@ -1,18 +1,18 @@
 {
-  "timestamp": "2026-01-25T10:25:28.235465",
+  "timestamp": "2026-01-25T11:19:58.796686",
   "channels": [
     {
       "url": "https://t.me/s/prrofile_purple",
       "enabled": true,
       "metrics": {
-        "total_configs": 58,
-        "valid_configs": 23,
+        "total_configs": 57,
+        "valid_configs": 22,
         "unique_configs": 20,
-        "avg_response_time": 0.6,
+        "avg_response_time": 0.77,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 80.76,
-        "last_success": "2026-01-25T10:25:26.958887"
+        "overall_score": 81.22,
+        "last_success": "2026-01-25T11:19:57.062008"
       }
     },
     {
@@ -20,13 +20,13 @@
       "enabled": true,
       "metrics": {
         "total_configs": 19,
-        "valid_configs": 10,
-        "unique_configs": 10,
-        "avg_response_time": 0.39,
+        "valid_configs": 9,
+        "unique_configs": 9,
+        "avg_response_time": 0.55,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 87.58,
-        "last_success": "2026-01-25T10:25:27.401057"
+        "overall_score": 86.02,
+        "last_success": "2026-01-25T11:19:57.653630"
       }
     },
     {
@@ -36,11 +36,11 @@
         "total_configs": 20,
         "valid_configs": 9,
         "unique_configs": 9,
-        "avg_response_time": 0.38,
+        "avg_response_time": 0.5,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 85.68,
-        "last_success": "2026-01-25T10:25:27.812055"
+        "overall_score": 85.5,
+        "last_success": "2026-01-25T11:19:58.182934"
       }
     },
     {
@@ -50,11 +50,11 @@
         "total_configs": 18,
         "valid_configs": 15,
         "unique_configs": 15,
-        "avg_response_time": 0.39,
+        "avg_response_time": 0.58,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 95.24,
-        "last_success": "2026-01-25T10:25:28.233696"
+        "overall_score": 94.96,
+        "last_success": "2026-01-25T11:19:58.794977"
       }
     }
   ]
