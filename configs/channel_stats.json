@@ -1,32 +1,32 @@
 {
-  "timestamp": "2026-02-05T09:50:11.648551",
+  "timestamp": "2026-02-05T10:43:28.221830",
   "channels": [
     {
       "url": "https://t.me/s/prrofile_purple",
       "enabled": true,
       "metrics": {
-        "total_configs": 102,
+        "total_configs": 110,
         "valid_configs": 25,
         "unique_configs": 23,
-        "avg_response_time": 0.6,
+        "avg_response_time": 0.58,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 78.23,
-        "last_success": "2026-02-05T09:50:10.311125"
+        "overall_score": 77.82,
+        "last_success": "2026-02-05T10:43:26.799352"
       }
     },
     {
       "url": "https://t.me/s/v2ray_free_conf",
       "enabled": true,
       "metrics": {
-        "total_configs": 21,
+        "total_configs": 32,
         "valid_configs": 10,
         "unique_configs": 10,
-        "avg_response_time": 0.38,
+        "avg_response_time": 0.43,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 86.33,
-        "last_success": "2026-02-05T09:50:10.819799"
+        "overall_score": 82.16,
+        "last_success": "2026-02-05T10:43:27.309738"
       }
     },
     {
@@ -36,11 +36,11 @@
         "total_configs": 14,
         "valid_configs": 14,
         "unique_configs": 14,
-        "avg_response_time": 0.38,
+        "avg_response_time": 0.43,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 99.43,
-        "last_success": "2026-02-05T09:50:11.236843"
+        "overall_score": 99.36,
+        "last_success": "2026-02-05T10:43:27.769233"
       }
     },
     {
@@ -50,11 +50,11 @@
         "total_configs": 18,
         "valid_configs": 15,
         "unique_configs": 15,
-        "avg_response_time": 0.38,
+        "avg_response_time": 0.42,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 95.26,
-        "last_success": "2026-02-05T09:50:11.646902"
+        "overall_score": 95.2,
+        "last_success": "2026-02-05T10:43:28.220076"
       }
     }
   ]
