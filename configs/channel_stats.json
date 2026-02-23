@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-02-22T23:29:08.021495",
+  "timestamp": "2026-02-23T02:30:51.215100",
   "channels": [
     {
       "url": "https://t.me/s/prrofile_purple",
@@ -8,25 +8,25 @@
         "total_configs": 150,
         "valid_configs": 24,
         "unique_configs": 22,
-        "avg_response_time": 0.44,
+        "avg_response_time": 0.49,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 76.25,
-        "last_success": "2026-02-22T23:29:06.786592"
+        "overall_score": 76.19,
+        "last_success": "2026-02-23T02:30:39.009119"
       }
     },
     {
       "url": "https://t.me/s/v2ray_free_conf",
       "enabled": true,
       "metrics": {
-        "total_configs": 22,
-        "valid_configs": 5,
-        "unique_configs": 5,
-        "avg_response_time": 0.36,
-        "success_count": 1,
+        "total_configs": 60,
+        "valid_configs": 12,
+        "unique_configs": 4,
+        "avg_response_time": 0,
+        "success_count": 0,
         "fail_count": 0,
-        "overall_score": 80.15,
-        "last_success": "2026-02-22T23:29:07.230994"
+        "overall_score": 0.0,
+        "last_success": null
       }
     },
     {
@@ -36,11 +36,11 @@
         "total_configs": 16,
         "valid_configs": 14,
         "unique_configs": 14,
-        "avg_response_time": 0.35,
+        "avg_response_time": 0.39,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 96.35,
-        "last_success": "2026-02-22T23:29:07.617916"
+        "overall_score": 96.28,
+        "last_success": "2026-02-23T02:30:50.773247"
       }
     },
     {
@@ -50,11 +50,11 @@
         "total_configs": 17,
         "valid_configs": 15,
         "unique_configs": 15,
-        "avg_response_time": 0.37,
+        "avg_response_time": 0.41,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 96.5,
-        "last_success": "2026-02-22T23:29:08.020130"
+        "overall_score": 96.44,
+        "last_success": "2026-02-23T02:30:51.213790"
       }
     }
   ]
