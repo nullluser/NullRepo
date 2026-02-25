@@ -1,18 +1,18 @@
 {
-  "timestamp": "2026-02-25T07:53:28.061544",
+  "timestamp": "2026-02-25T08:53:56.416555",
   "channels": [
     {
       "url": "https://t.me/s/prrofile_purple",
       "enabled": true,
       "metrics": {
-        "total_configs": 150,
-        "valid_configs": 27,
-        "unique_configs": 23,
-        "avg_response_time": 0.61,
+        "total_configs": 147,
+        "valid_configs": 26,
+        "unique_configs": 22,
+        "avg_response_time": 0.65,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 74.88,
-        "last_success": "2026-02-25T07:53:26.691669"
+        "overall_score": 74.61,
+        "last_success": "2026-02-25T08:53:54.805400"
       }
     },
     {
@@ -22,25 +22,25 @@
         "total_configs": 23,
         "valid_configs": 8,
         "unique_configs": 7,
-        "avg_response_time": 0.41,
+        "avg_response_time": 0.48,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 79.96,
-        "last_success": "2026-02-25T07:53:27.208992"
+        "overall_score": 79.84,
+        "last_success": "2026-02-25T08:53:55.346888"
       }
     },
     {
       "url": "https://t.me/s/PrivateVPNs",
       "enabled": true,
       "metrics": {
-        "total_configs": 18,
+        "total_configs": 16,
         "valid_configs": 15,
         "unique_configs": 15,
-        "avg_response_time": 0.39,
+        "avg_response_time": 0.5,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 95.25,
-        "last_success": "2026-02-25T07:53:27.628857"
+        "overall_score": 97.68,
+        "last_success": "2026-02-25T08:53:55.886488"
       }
     },
     {
@@ -50,11 +50,11 @@
         "total_configs": 16,
         "valid_configs": 15,
         "unique_configs": 15,
-        "avg_response_time": 0.4,
+        "avg_response_time": 0.5,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 97.83,
-        "last_success": "2026-02-25T07:53:28.059631"
+        "overall_score": 97.69,
+        "last_success": "2026-02-25T08:53:56.414656"
       }
     }
   ]
