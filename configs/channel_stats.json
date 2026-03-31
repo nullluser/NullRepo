@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-31T05:11:49.666061",
+  "timestamp": "2026-03-31T07:19:52.455032",
   "channels": [
     {
       "url": "https://t.me/s/prrofile_purple",
@@ -8,20 +8,20 @@
         "total_configs": 46,
         "valid_configs": 15,
         "unique_configs": 15,
-        "avg_response_time": 0.45,
+        "avg_response_time": 0.67,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 82.48,
-        "last_success": "2026-03-31T05:11:37.640392"
+        "overall_score": 82.15,
+        "last_success": "2026-03-31T07:19:39.363199"
       }
     },
     {
       "url": "https://t.me/s/v2ray_free_conf",
       "enabled": true,
       "metrics": {
-        "total_configs": 60,
-        "valid_configs": 6,
-        "unique_configs": 2,
+        "total_configs": 57,
+        "valid_configs": 12,
+        "unique_configs": 4,
         "avg_response_time": 0,
         "success_count": 0,
         "fail_count": 0,
@@ -34,27 +34,27 @@
       "enabled": true,
       "metrics": {
         "total_configs": 19,
-        "valid_configs": 14,
-        "unique_configs": 14,
-        "avg_response_time": 0.37,
+        "valid_configs": 13,
+        "unique_configs": 13,
+        "avg_response_time": 0.55,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 92.86,
-        "last_success": "2026-03-31T05:11:49.217804"
+        "overall_score": 91.28,
+        "last_success": "2026-03-31T07:19:51.779315"
       }
     },
     {
       "url": "https://t.me/s/freewireguard",
       "enabled": true,
       "metrics": {
-        "total_configs": 7,
-        "valid_configs": 7,
-        "unique_configs": 7,
-        "avg_response_time": 0.42,
+        "total_configs": 6,
+        "valid_configs": 6,
+        "unique_configs": 6,
+        "avg_response_time": 0.65,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 99.37,
-        "last_success": "2026-03-31T05:11:49.664166"
+        "overall_score": 99.02,
+        "last_success": "2026-03-31T07:19:52.453259"
       }
     }
   ]
