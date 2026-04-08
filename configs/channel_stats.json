@@ -1,31 +1,31 @@
 {
-  "timestamp": "2026-04-08T10:59:51.827192",
+  "timestamp": "2026-04-08T11:59:21.443226",
   "channels": [
     {
       "url": "https://t.me/s/prrofile_purple",
       "enabled": true,
       "metrics": {
-        "total_configs": 41,
+        "total_configs": 46,
         "valid_configs": 15,
         "unique_configs": 15,
-        "avg_response_time": 0.76,
+        "avg_response_time": 0.51,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 83.01,
-        "last_success": "2026-04-08T10:59:38.726160"
+        "overall_score": 82.38,
+        "last_success": "2026-04-08T11:59:09.260832"
       }
     },
     {
       "url": "https://t.me/s/v2ray_free_conf",
-      "enabled": false,
+      "enabled": true,
       "metrics": {
         "total_configs": 60,
-        "valid_configs": 0,
-        "unique_configs": 0,
+        "valid_configs": 3,
+        "unique_configs": 1,
         "avg_response_time": 0,
         "success_count": 0,
-        "fail_count": 1,
-        "overall_score": 15.0,
+        "fail_count": 0,
+        "overall_score": 0.0,
         "last_success": null
       }
     },
@@ -34,13 +34,13 @@
       "enabled": true,
       "metrics": {
         "total_configs": 20,
-        "valid_configs": 15,
-        "unique_configs": 15,
-        "avg_response_time": 0.58,
+        "valid_configs": 14,
+        "unique_configs": 14,
+        "avg_response_time": 0.43,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 92.88,
-        "last_success": "2026-04-08T10:59:51.158020"
+        "overall_score": 91.86,
+        "last_success": "2026-04-08T11:59:21.011799"
       }
     },
     {
@@ -50,11 +50,11 @@
         "total_configs": 12,
         "valid_configs": 12,
         "unique_configs": 12,
-        "avg_response_time": 0.64,
+        "avg_response_time": 0.4,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 99.04,
-        "last_success": "2026-04-08T10:59:51.825431"
+        "overall_score": 99.4,
+        "last_success": "2026-04-08T11:59:21.441561"
       }
     }
   ]
