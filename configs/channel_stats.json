@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-06T18:08:10.923567",
+  "timestamp": "2026-06-06T20:10:50.557063",
   "channels": [
     {
       "url": "https://t.me/s/prrofile_purple",
@@ -8,39 +8,39 @@
         "total_configs": 11,
         "valid_configs": 5,
         "unique_configs": 5,
-        "avg_response_time": 0.55,
+        "avg_response_time": 0.63,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 85.54,
-        "last_success": "2026-06-06T18:08:09.286070"
+        "overall_score": 85.42,
+        "last_success": "2026-06-06T20:10:48.925202"
       }
     },
     {
       "url": "https://t.me/s/v2ray_free_conf",
       "enabled": true,
       "metrics": {
-        "total_configs": 18,
+        "total_configs": 19,
         "valid_configs": 12,
         "unique_configs": 12,
         "avg_response_time": 0.5,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 90.92,
-        "last_success": "2026-06-06T18:08:09.813723"
+        "overall_score": 90.05,
+        "last_success": "2026-06-06T20:10:49.445703"
       }
     },
     {
       "url": "https://t.me/s/PrivateVPNs",
       "enabled": true,
       "metrics": {
-        "total_configs": 18,
+        "total_configs": 16,
         "valid_configs": 14,
-        "unique_configs": 13,
-        "avg_response_time": 0.52,
+        "unique_configs": 14,
+        "avg_response_time": 0.54,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 91.88,
-        "last_success": "2026-06-06T18:08:10.372284"
+        "overall_score": 96.07,
+        "last_success": "2026-06-06T20:10:50.017260"
       }
     },
     {
@@ -50,11 +50,11 @@
         "total_configs": 17,
         "valid_configs": 15,
         "unique_configs": 15,
-        "avg_response_time": 0.51,
+        "avg_response_time": 0.52,
         "success_count": 1,
         "fail_count": 0,
         "overall_score": 96.29,
-        "last_success": "2026-06-06T18:08:10.921911"
+        "last_success": "2026-06-06T20:10:50.555406"
       }
     }
   ]
