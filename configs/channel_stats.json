@@ -1,32 +1,32 @@
 {
-  "timestamp": "2026-07-31T23:03:04.145976",
+  "timestamp": "2026-08-01T03:13:19.596687",
   "channels": [
     {
       "url": "https://t.me/s/prrofile_purple",
       "enabled": true,
       "metrics": {
-        "total_configs": 48,
-        "valid_configs": 25,
-        "unique_configs": 24,
-        "avg_response_time": 0.81,
+        "total_configs": 32,
+        "valid_configs": 17,
+        "unique_configs": 16,
+        "avg_response_time": 0.78,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 85.8,
-        "last_success": "2026-07-31T23:02:51.299326"
+        "overall_score": 85.64,
+        "last_success": "2026-08-01T03:13:06.524211"
       }
     },
     {
       "url": "https://t.me/s/v2ray_free_conf",
       "enabled": true,
       "metrics": {
-        "total_configs": 19,
+        "total_configs": 20,
         "valid_configs": 5,
         "unique_configs": 5,
-        "avg_response_time": 0.51,
+        "avg_response_time": 0.56,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 80.81,
-        "last_success": "2026-07-31T23:02:51.852483"
+        "overall_score": 80.41,
+        "last_success": "2026-08-01T03:13:07.112171"
       }
     },
     {
@@ -53,8 +53,8 @@
         "avg_response_time": 0.54,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 95.03,
-        "last_success": "2026-07-31T23:03:04.144285"
+        "overall_score": 95.02,
+        "last_success": "2026-08-01T03:13:19.595138"
       }
     }
   ]
