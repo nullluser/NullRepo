@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-05T15:15:09.589876",
+  "timestamp": "2026-08-05T17:40:51.035557",
   "channels": [
     {
       "url": "https://t.me/s/prrofile_purple",
@@ -8,11 +8,11 @@
         "total_configs": 40,
         "valid_configs": 20,
         "unique_configs": 19,
-        "avg_response_time": 0.73,
+        "avg_response_time": 0.81,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 85.15,
-        "last_success": "2026-08-05T15:14:56.575570"
+        "overall_score": 85.04,
+        "last_success": "2026-08-05T17:40:38.307217"
       }
     },
     {
@@ -20,20 +20,20 @@
       "enabled": true,
       "metrics": {
         "total_configs": 19,
-        "valid_configs": 9,
-        "unique_configs": 9,
-        "avg_response_time": 0.55,
+        "valid_configs": 5,
+        "unique_configs": 5,
+        "avg_response_time": 0.51,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 86.02,
-        "last_success": "2026-08-05T15:14:57.169231"
+        "overall_score": 80.82,
+        "last_success": "2026-08-05T17:40:38.843571"
       }
     },
     {
       "url": "https://t.me/s/PrivateVPNs",
       "enabled": false,
       "metrics": {
-        "total_configs": 51,
+        "total_configs": 48,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
@@ -47,14 +47,14 @@
       "url": "https://t.me/s/freewireguard",
       "enabled": true,
       "metrics": {
-        "total_configs": 16,
+        "total_configs": 17,
         "valid_configs": 15,
         "unique_configs": 15,
-        "avg_response_time": 0.69,
+        "avg_response_time": 0.52,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 97.4,
-        "last_success": "2026-08-05T15:15:09.588020"
+        "overall_score": 96.28,
+        "last_success": "2026-08-05T17:40:51.034098"
       }
     }
   ]
